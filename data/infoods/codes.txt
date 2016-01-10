@@ -1,0 +1,4077 @@
+<AAA>     amino acids, total aromatic
+      Unit:  mg
+      Comments: The total value is the sum of
+          phenylalanine plus tyrosine only, in spite
+          of the fact that tryptophan is also
+          chemically aromatic.
+      Tables: USDA 523, EA, SWD
+
+<AAE8>
+      amino acids, total essential; includes the
+          eight basic essential amino acids: 
+          isoleucine, leucine, lysine, methionine,
+          phenylalanine, threonine, tryptophan, and
+          valine
+      Unit: mg
+      Comments: These eight amino acids are
+          included in all definitions of the
+          essential amino acids for man.
+
+<AAE10A>
+      amino acids, total essential; includes the
+          eight basic essential amino acids plus
+          arginine and histidine
+      Unit: mg
+      Comments: Arginine and histidine are
+          included in this definition of essential
+          amino acids because they are essential for
+          infants.
+
+<AAE10B>amino acids, total essential; includes
+               the eight basic essential amino acids
+               plus cystine and tyrosine
+      Unit: mg
+      Comments: Cystine and tyrosine are
+          included in this definition of
+          essential amino acids because of
+          their sparing effects on the
+          requirements for methionine and
+          phenylalanine respectively.
+     Tables: MW
+
+<AAE12>amino acids, total essential; includes
+               the eight basic essential amino acids
+               plus arginine, histidine, cystine,
+               and tyrosine
+      Unit: mg
+      Comments: Arginine and histidine are
+          included in this definition of
+          essential amino acids because they
+          are essential for infants.  Cystine
+          and tyrosine are included because of
+          their sparing effects on the
+          requirements for methionine and
+          phenylalanine respectively.
+      Tables: ETH, NE, EA
+
+<AAE->amino acids, total essential; unknown or variable
+               which amino acids are included in the
+               total
+      Unit: mg
+
+<AAS> amino acids, total sulphur-containing
+      Unit: mg
+      Comments: The total value is the sum of
+          cystine plus methionine.
+      Tables: USDA 522, NE, EA, SWD
+
+<AAT->
+      amino acids, total, precise definition not
+          specified
+      Unit: mg
+      Tables: SFK, ETH, NE, EA
+      Comments: When total amino acids are
+          reported, they are usually the sum of
+          whatever amino acids were analysed for
+          that particular food.  Consequently, this
+          term is not precisely defined.  Additional
+          tagnames will be introduced when precise
+          definitions exist.  See page ? for
+          additional discussion.
+
+<ACEAC>
+      acetic acid
+      Unit: mg
+      Tables: USDA 230, SFK
+
+<AG>  silver
+      Unit: mcg
+      Tables: USDA 378
+
+<AGAR>
+      agar-agar
+      Synonyms: agar
+      Unit: g
+
+<AL>  aluminium
+      Unit: mcg
+      Synonyms: aluminum
+      Tables: USDA 348, SFK
+
+<ALA> alanine
+      Unit: mg
+      Comments: Includes only L-alanine.
+      Tables: USDA 513, SFK, ETH, NE, EA, DAN,
+          SWD
+
+<ALBU>
+      albumin
+      Unit: mg
+
+<ALC> alcohol
+      Unit: g
+      Synonyms: ethanol; ethyl alcohol
+      Tables: USDA 221, MW, DAN
+
+<ALGL>albumin and globulin
+      Unit: mg
+      Tables: SFK
+
+<ALGNT>alginates
+      Unit: g
+
+<AMMON>ammonia
+      Unit: mg
+      Tables: USDA 519
+
+<AMYP>amylopectin
+      Unit: g
+      Tables: USDA 219
+
+<AMYPM>amylopectin; expressed in
+               monosaccharide equivalents
+      Unit: g
+
+<AMYS>amylose
+      Unit: g
+
+<AMYSM>amylose; expressed in monosaccharide
+               equivalents
+      Unit: g
+
+<ARAFB>arabinose in dietary fibre
+      Unit: mg
+
+<ARAN>arabinan
+      Unit: g
+
+<ARAS>arabinose
+      Unit: g
+      Comments: L-arabinose only; includes
+          only the free monosaccharide.
+      Tables: SFK
+
+<ARG> arginine
+      Unit: mg
+      Comments: Includes only L-arginine.
+      Tables: USDA 511, SFK, ETH, NE, EA,
+          DAN, SWD
+
+<AS>  arsenic
+      Unit: mcg
+      Tables: USDA 350
+
+<ASCL>
+      L-ascorbic acid
+      Unit: mg
+      Tables: USDA 402, SWD
+
+<ASCDL>
+     L-dehydroascorbic acid
+      Unit: mg
+
+<ASH> ash
+      Unit: g
+      Synonyms: minerals
+      Tables: USDA 207, SKF, ETH, EGP, IND, NE,
+          EA, PRC, DAN, SWD
+
+<ASN> asparagine
+      Unit: mg
+      Comments: Includes only L-asparagine.
+      Tables: USDA 525, SFK
+
+<ASP> aspartic acid
+      Unit: mg
+      Synonym: aspartate
+      Comments: Includes only L-aspartic acid.
+      Tables: USDA 514, SFK, ETH, NE, EA, DAN,
+          SWD
+
+<AU>  gold
+      Unit: mcg
+      Tables: USDA 363
+
+<AVED5>
+     delta 5-avenasterol
+     Unit: mg
+     Synonyms: delta 5-avenastenol
+     Tables: USDA 649, SFK, FRN
+
+<AVED7>
+     delta 7-avenasterol
+     Unit: mg
+     Synonyms: avenasterol; delta 7-avenastenol
+     Tables: USDA 648, SFK, FRN
+
+<B>  boron
+     Unit: mcg
+     Tables: USDA 354, SFK, PRC
+
+<BA> barium
+     Unit: mcg
+     Tables: USDA 351
+
+<BENAC>   benzoic acid
+     Unit: mg
+     Tables: USDA 232, SFK
+
+<BETN>
+	Betaine
+	Units: mg
+	Tables: USDA 454
+
+<BIOT>    biotin
+     Unit: mcg
+     Synonyms: vitamin H
+     Tables: USDA 416, SFK, MW, DAN, SWD
+
+<BRASTR>  brassicasterol
+     Unit: mg
+     Tables: USDA 640, SFK, FRN
+
+<BRD>     bromide
+     Unit: mcg
+     Table: NZ
+
+<CA> calcium
+     Unit: mg
+      Tables: USDA 301, SFK, MW, ETH, EGP,
+          IND, NE, EA, PRC, DAN, SWD
+
+<CAFFN>   caffeine
+     Unit: mg
+     Tables: USDA 262, SFK
+
+
+<CAMD5>   delta 5-campesterol
+     Unit: mg
+     Synonyms: campesterol; delta 5-
+     campestenol
+     Tables: USDA 639, SFK, FRN
+
+<CAMD7>   delta 7-campesterol
+     Unit: mg
+     Synonyms: delta 7-campestenol
+     Tables: FRN
+
+<CARGN>   carageenan
+     Unit: g
+
+<CAROT>   carotene, total
+     Unit: mcg
+     Synonyms: vitamin A precursors
+     Comments: All-trans carotene only.
+     Tables: SFK, MW, PRC
+
+<CARTA>
+     alpha-carotene
+     Unit: mcg
+     Comments: All-trans alpha-carotene only.
+     Tables: USDA 322
+
+<CARTB>
+     beta-carotene
+     Unit: mcg
+     Comments: All-trans beta-carotene only.
+     Tables: USDA 321, DAN
+
+<CARTBEQ>
+     beta-carotene equivalents
+     Unit: mcg
+     Synonyms: provitamin A carotenoids
+      Comments: This value is the sum of the
+          beta-carotene plus ½ the quantity of the
+          other carotenoids with vitamin A activity.
+     Tables: USDA 320, NE, EA
+
+<CARTG>
+     gamma-carotene
+     Unit: mcg
+     Comments: All-trans gamma-carotene only.
+     Tables: USDA 332
+
+<CASN>
+     casein
+     Unit: mg
+     Tables: SFK
+
+<CD> cadmium
+     Unit: mcg
+     Tables: USDA 356
+
+<CELLU>
+     cellulose
+     Unit: g
+     Tables: USDA 225, SFK, DAN, SWD
+<CELLO>
+     cellobiose
+     unit: g
+
+<CHLNP> 
+     phosphatidyl choline
+     Unit: g
+     Synonyms: lecithin
+     Tables: USDA 662, SFK
+
+<CHLRAC>
+     chlorogenic acid
+     Unit: mg
+     Tables: USDA 234, SFK
+
+<CHOAVL>  carbohydrate, available
+     Unit: g
+      Comments: This value includes the free
+          sugars plus dextrins, starch, and
+          glycogen.
+     Tables: SFK
+
+<CHOAVLM> carbohydrate, available; expressed in
+          monosaccharide equivalents
+     Unit: g
+      Comments: This value includes the free
+          sugars plus dextrins, starch, and
+          glycogen.
+     Tables: MW
+
+<CHOCAL>  cholecalciferol
+     Unit: mcg
+     Synonyms: vitamin D-3
+     Comments: Naturally occurring form.
+     Tables: DAN
+
+<CHOCDF>  carbohydrate, total; calculated by
+          difference
+     Unit: g
+     Comments: This value is calculated
+     using the following formula:
+          100 g minus total grams of water,
+          protein, fat, and ash
+      Note: This is not the preferred method
+          of calculating total carbohydrate. 
+          Calculation by summation is
+          preferred.
+     Tables: USDA 205, ETH, EGP, IND, NE,
+     EA, DAN, SWD
+
+<CHOCSM>  carbohydrate, total; calculated by
+          summation
+     Unit: g
+      Comments: This value is the sum of the
+          sugars, starches, oligosaccharides,
+          and carbohydrate dietary fibre.
+     Tables: USDA 254
+
+<CHOLC>   cholesterol; determined by chemical
+          method (classical)
+     Unit: mg
+
+<CHOLE>
+     cholesterol; determined by enzymatic or
+     chromatographic method
+     Unit: mg
+     Tables: MW
+
+<CHOLM>
+     24-methylcholest-7-erol
+     Unit: mg
+     Tables: USDA 651, SFK, FRN
+
+<CHOLME>
+     24-methylene cholesterol
+     unit: mg 
+
+<CHOLN>
+     choline, total
+     Unit: mg
+     Tables: USDA 421, SFK, IND
+
+<CHOLNF> 
+	choline, free
+	Units: mg		
+	Tables: USDA 450
+
+<CHOLNGPC>
+	Choline from glycerophosphocholine
+	Units: mg
+	Tables: USDA 453
+
+<CHOLNPC>
+	Choline from phosphocholine
+	Units: mg
+	Tables: USDA 451
+
+<CHOLNPTC>  
+	choline from phosphatidylcholine  
+ 	Units: mg
+	Tables: USDA 452
+
+<CHOLNSM>
+	Choline from sphingomyelin
+	Units: mg
+	Tables: USDA 455
+
+<CHOL->
+     cholesterol; method of determination
+     unknown or variable
+     Unit: mg
+
+<CHO->
+     carbohydrate, total; method of
+     determination unknown or variable
+     Unit: g
+
+<CITAC>
+     citric acid
+     Unit: mg
+     Tables: USDA 236, SFK
+
+<CLD>     chloride
+      Unit: mg
+      Note: If the value is expressed in
+          millimoles, mmol must be explicitly stated
+          with the secondary tagname <UNIT/>.
+     Synonyms: chlorine
+     Tables: USDA 302, SFK, MW, IND, PRC
+
+<CO> cobalt
+     Unit: mcg
+     Tables: USDA 311, SFK, IND, EA, PRC
+
+<COLG>
+     collagen
+     Unit: mg
+
+<CONPRO>  connective tissue protein
+     Unit: mg
+     Tables: SFK
+      Comments: This term is not precisely
+          defined in the table in which it
+          appears.  The tagname should be
+          construed as ``connective tissue
+          protein as the term is used by Souci-
+          Fachmann-Kraut''.
+
+<CR> chromium
+     Unit: mcg
+     Tables: USDA 310, SFK, DAN, SWD
+
+<CREATN>  creatinine
+     Unit: mg
+     Tables: SFK
+
+<CRYPX>   cryptoxanthin
+     Unit: mcg
+     Tables: USDA 334
+
+<CU> copper
+     Unit: mg
+     Tables: USDA 312, SFK, MW, EA, PRC,
+     DAN, SWD
+
+<CYAN>    Cyanide
+     Units: mcg
+     Table: NZ
+
+<CYS>     cystine
+     Unit: mg
+      Comments: Cysteine is often the
+          natural form, which is converted to
+          cystine during chromatography;
+          includes only the L-amino acid.
+     Tables: USDA 507, SFK, ETH, NE, EA,
+     DAN, SWD
+
+<DAIDZN>  daidzin
+     Unit: mcg
+
+<DAIDZNA> acetyl-daidzin
+     Unit: mcg
+
+<DAIDZNM> malonyl-daidzin
+     Unit: mcg
+
+<DDZEIN>  daidzein
+     Unit: mcg
+
+
+<DEXTN>   dextrins
+     Unit: g
+     Tables: SFK
+
+<DEXTNM>  dextrins; expressed in monosaccharide
+          equivalents
+     Unit: g
+     Tables: MW
+
+<DGLY>
+     diglycerides, total
+     Unit: g
+     Tables: USDA 656
+
+<DISAC>
+     disaccharides, total
+     Unit: g
+
+<DISACM>
+     disaccharides, total; expressed in
+     monosaccharide equivalents
+     Unit: g
+
+<DM> 
+     dry matter
+     unit: g
+
+<DOPN>
+     dopamine
+     Unit: mg
+     Tables: SFK
+
+<ENERA>
+     energy, gross; determined by direct
+     analysis using bomb calorimetry
+      Unit: kJ.  The value for <ENERA> may be
+          expressed in kilocalories instead of the
+          default unit of kilojoules. However, if
+          expressed in kilocalories, kcal must be
+          explicitly stated with the secondary
+          tagname <UNIT/>.
+      Note: It would be confusing and would imply
+          additional information that does not exist
+          if two <ENERA> values, i.e., one expressed
+          in kilocalories and the other expressed in
+          kilojoules, were included for a single
+          food item when one value has simply been
+          calculated from the other using the
+          conversion equation: 1 kcal = 4.184 kJ. 
+          Consequently, one or the other should be
+          used, but not both.
+     Synonyms: kilojoules; kilocalories;
+     Calories; food energy
+
+<ENERC>energy, total metabolizable;
+               calculated from the energy-producing
+               food components
+      Unit: kJ.  The value for <ENERC> may
+          be expressed in kilocalories instead
+          of the default unit of kilojoules. 
+          However, if expressed in
+          kilocalories, kcal must be explicitly
+          stated with the secondary tagname
+          <UNIT/>.
+      Note: It would be confusing and would
+          imply additional information that
+          does not exist if two <ENERC> values,
+          i.e., one expressed in kilocalories
+          and the other expressed in
+          kilojoules, were included for a
+          single food item when one value has
+          simply been calculated from the other
+          using the conversion equation: 1 kcal
+          = 4.184 kJ.  Consequently, one or the
+          other should be used, but not both.
+     Synonyms: kilojoules; kilocalories;
+     Calories; food energy
+      Comments: In addition to a value for
+          the quantity of total metabolizable
+          energy, <ENERC> includes a
+          description or listing of the
+          conversion factors used to calculate
+          this energy value from the proximate
+          quantities.  The conversion factors
+          may be described by a keyword, or the
+          conversion factors may be listed
+          using secondary tagnames within
+          <ENERC>.  (More than one <ENERC>
+          tagname may exist for a single food
+          item if the values were calculated
+          from the proximate components using
+          different conversion factors.)
+      Keywords: Following are the available
+          keywords to describe the conversion
+          factors that were used for calculating
+          total metabolizable energy:
+      KJA  kilojoule conversion factors using
+          available carbohydrate
+          kilojoules = (17 x g total protein) + (16
+          x g available carbohydrate expressed as
+          monosaccharides) + (37 x g total fat) +
+          (29 x g alcohol)
+      Tables: MW
+      STDA  standard conversion factors
+          originally derived by Atwater using
+          available carbohydrate
+          kilocalories = (4 x g total protein) +
+          (3.75 x g available carbohydrate expressed
+          as monosaccharides) + (9 x g total fat) +
+          (7 x g alcohol)
+      Tables: MW
+      STDT  standard conversion factors
+          originally derived by Atwater using total
+          carbohydrate 
+          kilocalories = (4 x g total protein) + (4
+          x g total carbohydrate) + (9 x g total
+          fat) + (7 x g alcohol)
+      Tables: EGP, IND
+      CDXC  CODEX conversion factors for
+          nutritional labelling of total
+          kilocalories
+          kilocalories = (4 x g total protein) + (4
+          x g total carbohydrate) + (9 x g total
+          fat) + (7 x g alcohol) + (3 x g organic acid)
+      CDXJ  CODEX conversion factors for
+          nutritional labelling of total kilojoules
+          kilojoules = (17 x g total protein) + (17
+          x g total carbohydrate) + (37 x g total
+          fat) + (29 x g alcohol) + (13 x g organic
+          acid)
+      FDS  conversion factors based on type of
+          food as reported in World Health
+          Organization Technical Report Series No.
+          522 (?) and the United States Department
+          of Agriculture Handbooks No. 8 (?) and No.
+          74 (?).
+      Tables: USDA 208 and 268, ETH, NE, EA
+      Note: The following two codes, RUBA
+          and RUBT, represent conversion
+          factors that were used primarily for
+          calculating the energy data in early
+          editions of McCance and Widdowson. 
+          It is believed that the Rubner
+          conversion factors are no longer in
+          active use.
+      RUBA  Rubner conversion factors using
+          available carbohydrate
+          kilocalories = (4.1 x g total
+          protein) + (3.75 x g available
+          carbohydrate expressed as
+          monosaccharides) + (9.3 x g total
+          fat) + (7 x g alcohol)
+      RUBT  Rubner conversion factors using
+          total carbohydrate
+          kilocalories = (4.1 x g total
+          protein) + (4.1 x g total
+          carbohydrate) + (9.3 x g total fat) +
+          (7 x g alcohol)
+
+      If none of the above keywords apply,
+          the actual conversion factors used to
+          calculate the total metabolizable
+          energy should be listed using the
+          following secondary tagnames:
+      <XP>  conversion factor for
+          calculating energy from protein
+      <XCT>  conversion factor for
+          calculating energy from total
+          carbohydrate
+      <XCA>  conversion factor for
+          calculating energy from available
+          carbohydrate
+      <XF>  conversion factor for
+          calculating energy from fat
+      <XA>  conversion factor for
+          calculating energy from alcohol
+      <XO>  conversion factor for
+          calculating energy from organic acid
+      Note: If these secondary tagnames are
+          used, conversion factors for <XP> and
+          <XF> are required; a conversion
+          factor for either <XCT> or <XCA> is
+          required; and conversion factors for
+          <XA> and <XO> are optional.
+
+      <ENERC> may not be used without either one
+          of the keywords specified above or a set
+          of specific conversion factors (or both). 
+          If the conversion system and factors are
+          unknown, <ENER-> should be used.
+      Examples: The 76 kcal/100 g energy value
+          for whole cow's milk in the Ethiopian food
+          table was calculated from proximate values
+          using conversion factors from the USDA
+          Agriculture Handbook No. 8.  Therefore,
+          the energy value would be listed using the
+          <ENERC> tagname and the USDA keyword, with
+          the kilocalorie unit stated with the
+          secondary tagname <UNIT/> to replace the
+          default unit of kilojoules:
+               <ENERC> 76 USDA <UNIT/> kcal </UNIT/>
+               </ENERC>
+
+          The 272 kJ/100 g energy value for fresh,
+          whole cow's milk in the McCance and
+          Widdowson food table was calculated with
+         the kilojoule conversion factors that use
+          available carbohydrate.  Therefore, the
+          energy value would be listed using the
+          <ENERC> tagname and the KJA keyword:
+               <ENERC> 272 KJA </ENERC>
+
+          If an energy value expressed in
+          kilocalories were calculated for whole
+          cow's milk using conversion factors for
+          protein, fat, and total carbohydrate, and
+          these conversion factors did not conform
+          to any of the factors described by the
+          available keywords, the energy value would
+          be listed using the <ENERC> tagname and
+          the <XP>, <XF> and <XCT> secondary
+          tagnames.  The kilocalorie unit would be
+          stated with the secondary tagname <UNIT/>
+          to replace the default unit of kilojoules:
+               <ENERC> 76.42 <XP> 4.3 <XF> 8.8 <XCT> 3.9
+               <UNIT/> kcal </UNIT/> </ENERC>
+      Note: In these examples, </UNIT/> and
+          </ENERC> are end-tags required in
+          interchange format to indicate the end of
+          the unit and energy information.  See the
+          INFOODS Data Interchange Handbook for
+          details on interchange format.
+
+<ENER->   energy; method of determination
+          unknown or variable
+      Unit: kJ.  The value for <ENER-> may
+          be expressed in kilocalories instead
+          of the default unit of kilojoules.
+          However, if expressed in
+          kilocalories, kcal must be explicitly
+          stated with the secondary tagname
+          <UNIT/>.
+      Note: It would be confusing and would
+          imply additional information that
+          does not exist if two <ENER-> values,
+          i.e., one expressed in kilocalories
+          and the other expressed in
+          kilojoules, were included for a
+          single food item when one value has
+          simply been calculated from the other
+          using the conversion equation: 1 kcal
+          = 4.184 kJ.  Consequently, one or the
+          other should be used, but not both.
+     Synonyms: kilojoules; kilocalories;
+     Calories; food energy
+      Comments: The <ENER-> tagname should
+          be used if it is not known whether
+          the energy value represents gross
+          energy or total metabolizable energy. 
+          It should also be used if it is known
+          that the energy value was calculated
+          from the proximate components but the
+          conversion factors used are unknown. 
+          (It is meaningless to have <ENER-> in
+          combination with either <ENERA> or
+          <ENERC> for a given food item.)
+<ERGCAL>
+     ergocalciferol
+     Unit: mcg
+     Synonyms: vitamin D-2
+
+<ETHAM>
+     ethanolamines, total
+     Unit: g
+     Tables: SFK
+
+Saturated Fatty Acids
+<F4D0>
+     fatty acid 4:0
+     Unit: g
+     Synonyms: butyric acid; tetranoic acid;
+     butanoic acid
+     Tables: USDA 607, SFK, FRN, DAN, SWD
+
+<F5D0>
+     fatty acid 5:0
+     unit: g
+
+<F6D0>
+     fatty acid 6:0
+     Unit: g
+     Synonyms: caproic acid; hexanoic acid
+     Tables: USDA 608, SFK, PRC, FRN, DAN, SWD
+
+<F8D0>
+     fatty acid 8:0
+     Unit: g
+     Synonyms: caprylic acid; octanoic acid
+     Tables: USDA 609, SFK, PRC, FRN, DAN, SWD
+
+<F10D0>
+     fatty acid 10:0
+     Unit: g
+     Synonyms: capric acid; decanoic acid
+     Tables: USDA 610, SFK, PRC, FRN, DAN, SWD
+
+<F12D0>
+     fatty acid 12:0
+     Unit: g
+     Synonyms: lauric acid; dodecanoic acid
+     Tables: USDA 611, SFK, NE, PRC, FRN, DAN,
+     SWD
+ 
+<F13D0>
+     fatty acid 13:0
+     Unit: g
+     Synonyms: tridecanoic acid
+     Tables: USDA 696, FRN
+
+<F14D0>   fatty acid 14:0
+     Unit: g
+     Synonyms: myristic acid; tetradecanoic
+     acid
+     Tables: USDA 612, SFK, NE, PRC, FRN,
+     DAN, SWD
+
+<F15D0>   fatty acid 15:0
+     Unit: g
+     Synonyms: pentadecylic acid;
+     pentadecanoic acid
+     Tables: USDA 652, PRC, FRN, DAN
+
+<F16D0>   fatty acid 16:0
+     Unit: g
+     Synonyms: palmitic acid; hexadecanoic
+     acid
+     Tables: USDA 613, SFK, NE, EA, PRC,
+     FRN, DAN, SWD
+
+<F17D0>   fatty acid 17:0
+     Unit: g
+     Synonyms: margaric acid; heptadecanoic
+     acid
+     Tables: USDA 653, SFK, PRC, FRN, DAN
+
+<F18D0>   fatty acid 18:0
+     Unit: g
+     Synonyms: stearic acid; octadecanoic
+     acid
+     Tables: USDA 614, SFK, NE, EA, PRC,
+     FRN, DAN, SWD
+
+<F19D0> fatty acid 19:0
+     Unit: g
+     Synonym: nonadecanoic acid
+
+<F20D0>   fatty acid 20:0
+     Unit: g
+     Synonyms: arachidic acid; eicosanoic
+     acid
+     Tables: USDA 615, SFK, PRC, FRN, DAN,
+     SWD
+
+<F21D0> fatty acid 21:0
+     Unit: g
+
+<F22D0>   fatty acid 22:0
+     Unit: g
+     Synonyms: behenic acid; docosanoic
+     acid
+     Tables: USDA 624, SFK, PRC, FRN, DAN,
+     SWD
+
+<F23D0>
+     fatty acid 23:0
+     Unit: g
+     Synonyms: tricosanoic acid
+     Tables: FRN
+
+<F24D0>
+     fatty acid 24:0
+     Unit: g
+     Synonyms: lignoceric acid; tetracosanoic
+     acid
+     Tables: USDA 654, SFK, FRN
+
+Monounsaturated fatty acids
+  For mono- and poly-unsaturated fatty acids,
+the following naming conventions are used: FnDm
+indicates an unspecified bond position, and
+potentially a mixture.  FnDmNo indicates an
+omega-o bond position, potentially mixed cis
+and trans forms.  FnDmCNo and FnDmTNo indicate
+values for the specific cis and trans forms
+respectively.
+
+<F10D1>
+     fatty acid 10:1
+     Units: g
+     Tables: NZ
+
+<F12D1>
+     fatty acid 12:1
+     Unit: g
+     Synonyms: lauroleic acid
+     Tables: FRN
+
+<F14D1>
+     fatty acid 14:1
+     Unit: g
+     Synonyms: myristoleic acid; tetradecenoic
+     acid
+     Tables: USDA 625, PRC, FRN, DAN
+
+<F15D1>
+     fatty acid 15:1
+     Unit: g
+     Synonyms: pentadecenoic acid
+     Tables: FRN, DAN
+
+<F15D1N9> fatty acid 15:1 n-9
+     Unit: g
+
+<F16D1>   fatty acid 16:1
+     Unit: g
+     Synonyms: palmitoleic acid;
+     hexadecenoic acid
+     Tables: USDA 626, SFK, NE, PRC, FRN,
+     DAN, SWD
+
+<F16D1C> fatty acid cis 16:1
+     Unit: g 
+     Synonyms: 
+     Tables: USDA 673 
+
+<F16D1T> fatty acid trans 16:1
+     Unit: g 
+     Synonyms: 
+     Tables: USDA 662 
+
+<F17D1>   fatty acid 17:1
+     Unit: g
+     Synonyms: heptadecenoic acid
+     Tables: USDA 687, FRN, DAN
+
+<F18D1>   fatty acid 18:1
+     Unit: g
+     Synonyms: oleic acid; octadecenoic
+     acid
+     Tables: USDA 617, FRN, DAN, SWD
+
+<F18D1C> fatty acid cis 18:1
+     Unit: g 
+     Synonyms: 
+     Tables: USDA 674 
+
+<F18D1N7> fatty acid 18:1 n-7
+     Unit: g
+     Tables: NZ
+
+<F18D1N9>
+     fatty acid 18:1 n-9
+     Unit: g
+     Tables: NZ
+
+<F18D1CN9> fatty acid 18:1 cis n-9
+     Unit: g
+
+<F18D1T> fatty acid trans 18:1
+     Unit: g 
+     Synonyms: 
+     Tables: USDA 663 
+
+<F18D1TN9>     fatty acid trans 18:1 n-9
+     Unit: g
+     Synonyms: elaidic acid; octadecenoic
+acid
+     Tables: SFK, NE, EA, FRN
+
+<F19D1N7> fatty acid 19:1 n-7
+     Unit: g
+
+<F20D1>   fatty acid 20:1
+     Unit: g
+     Synonyms: gadoleic acid; eicosenoic
+     acid
+     Tables: USDA 628, NE, PRC, FRN, DAN,
+     SWD
+
+<F20D1N7> fatty acid 20:1 n-7
+     Unit: g
+
+
+<F20D1N9> fatty acid 20:1 n-9
+     Unit: g
+
+<F20D1N11> fatty acid 20:1 n-11
+     Unit: g
+
+<F22D1>   fatty acid 22:1
+     Unit: g
+     Synonyms: erucic acid; cetoleic acid;
+     docosenoic acid
+     Tables: USDA 630, NE, PRC, FRN, DAN,
+     SWD, NZ
+
+<F22D1N9> fatty acid 22:1 n-9
+     Unit: g
+
+<F22D1CN9>
+     fatty acid cis 22:1 n-9
+     Unit: g
+     Synonyms: erucic acid; docosenoic acid
+     Tables: SFK, FRN, SWD
+
+<F22D1CN11>
+     fatty acid cis 22:1 n-11
+      Unit: g
+      Synonyms: cetoleic acid, 11-docosenoic acid
+
+<F22D1TN9>
+     fatty acid trans 22:1 n-9
+     Unit: g
+     Synonyms: brassidic acid
+     Tables: FRN
+
+<F23D1>
+     fatty acid 23:1
+     Unit: g
+     Tables: NZ
+
+<F24D1>
+     fatty acid 24:1
+     Unit: g
+      Synonyms: selacholeic acid, nervonic acid,
+          tetracosenoic acid
+     Tables: FRN
+
+<F24D1C> fatty acid cis 24:1
+     Unit: g 
+     Synonyms: 
+     Tables: USDA 671 
+
+Polyunsaturated fatty acids
+  For naming conventions, see monounsaturated
+fatty acids, above.
+
+<F16D2N4>
+     fatty acid 16:2 n-4
+     Unit: g
+
+<F16D2N7>
+     fatty acid 16:2 n-7
+     Unit: g
+
+<F16D3N3>
+     fatty acid 16:3 n-3
+     Unit: g
+
+<F16D3N4>
+     fatty acid 16:3 n-4
+     Unit: g
+
+<F16D4N1>
+     fatty acid 16:4 n-1
+     Unit: g
+
+<F16D4N4>
+     fatty acid 16:4 n-4
+     Unit: g
+
+<F18D2>
+     fatty acid 18:2
+     Unit: g
+     Tables: USDA 618, NZ
+
+<F18D2CN3>
+     fatty acid 18:2cis n-3
+     Unit: g
+
+<F18D2N4>
+     fatty acid 18:2 n-4
+     Unit: g
+
+<F18D2N6>
+     fatty acid 18:2, n-6
+     Unit g
+
+<F18D2CN6>
+     fatty acid cis,cis 18:2 n-6
+     Unit: g
+     Synonyms: linoleic acid; octadecadienoic
+     acid
+     Tables: USDA 675, SFK, NE, EA, PRC, FRN,
+     DAN, SWD
+
+<F18D2TN6>
+     fatty acid 18:2trans n-6
+     Unit: g
+
+<F18D2N9>
+     fatty acid 18:2 n-9
+     Unit: g
+
+<F18D3>
+     fatty acid 18:3
+     Unit: g
+     Tables: USDA 619, NZ
+
+<F18D3N3> fatty acid 18:3 n-3
+     Unit: g
+     Synonyms: alpha-linolenic acid;
+     octadecatrienoic acid
+     Tables: SFK, NE, EA, PRC,
+     FRN, DAN, SWD
+
+<F18D3CN3> fatty acid cis, cis, cis 18:3 n-3
+     Unit: g 
+     Synonyms: 
+     Tables: USDA 851
+
+<F18D3N6> fatty acid 18:3 n-6
+     Unit: g
+     Synonyms: gamma-linolenic acid
+     Tables: FRN
+
+<F18D4>   fatty acid 18:4
+     Unit: g
+     Synonyms: parinaric acid; stearidonic
+     acid; octadecatetraenoic acid
+     Tables: USDA 627, NE, FRN
+
+<F18D4N3> fatty acid 18:4 n-3
+     Unit: g
+     Tables: FRN
+
+<F20D2>   fatty acid 20:2
+     Unit: g
+     Synonyms: eicosadienoic acid
+     Tables: PRC, FRN
+
+<F20D2N6> fatty acid 20:2 n-6
+     Unit: g
+
+<F20D2CN6> fatty acid cis, cis 20:2 n-6
+     Unit: g 
+     Synonyms: 
+     Tables: USDA 672 
+
+<F20D3>   fatty acid 20:3
+     Unit: g
+     Synonyms: eicosatrienoic acid
+     Tables: USDA 689, FRN, DAN
+
+<F20D3N3> fatty acid 20:3 n-3
+     Unit: g
+
+<F20D3N6> fatty acid 20:3 n-6
+     Unit: g
+     Synonyms: homogammalinolenic
+     Tables: USDA 853
+
+<F20D3N9> fatty acid 20:3 n-9
+     Unit: g
+
+<F20D4>   fatty acid 20:4
+     Unit: g
+     Synonyms: arachidonic acid
+     Tables: USDA 620, FRN
+
+<F20D4N3> fatty acid 20:4 n-3
+     Unit: g
+
+<F20D4N6> fatty acid 20:4 n-6
+     Unit: g
+     Synonyms: arachidonic acid;
+     eicosatetraenoic acid
+     Tables: USDA 855, SFK, NE, PRC, FRN,
+     DAN, SWD
+
+<F20D5>   fatty acid 20:5
+     Unit: g
+     Synonyms: eicosapentaenoic acid
+     Tables: FRN
+
+<F20D5N3>
+     fatty acid 20:5 n-3
+     Unit: g
+     Synonyms: eicosapentaenoic acid; EPA;
+     timnodonic acid
+     Tables: USDA 629, NE, FRN, DAN, SWD
+
+<F21D5N3> fatty acid 21:5 n-3
+     Unit: g
+
+<F22D2>
+     fatty acid 22:2
+     Unit: g
+     Synonyms: docosadienoic acid
+     Tables: FRN
+
+<F22D3>
+     fatty acid 22:3
+     Unit: g
+     Tables: NZ
+
+<F22D4>
+     fatty acid 22:4
+     Unit: g
+     Synonyms: docosatetraenoic acid
+     Tables: FRN
+
+<F22D4N3> fatty acid 22:4 n-3
+     Unit: g
+
+<F22D5>
+     fatty acid 22:5
+     Unit: g
+     Synonyms: docosapentaenoic acid
+     Tables: FRN
+
+<F22D5N3>
+     fatty acid 22:5 n-3
+     Unit: g
+     Synonyms: docosapentaenoic acid
+     Tables: USDA 631, NE, PRC, FRN, DAN, SWD
+
+<F22D5N6>
+     fatty acid 22:5 n-6
+     Unit: g
+     Tables: NZ
+
+<F22D6>
+     fatty acid 22:6
+     Unit: g
+     Synonyms: docosahexaenoic acid
+     Tables: FRN
+
+<F22D6N3> fatty acid 22:6 n-3
+     Unit: g
+     Synonyms: docosahexaenoic acid; DHA
+     Tables: USDA 621, NE, PRC, FRN, DAN,
+     SWD
+
+<F24D6>
+     fatty acid 24:6
+     Unit: g
+     Tables: NZ
+
+<FACID>   fatty acids, total
+     Unit: g
+      Comments: Two data items are required
+          for tagname <FACID>:  the total
+          quantity of fatty acids and
+          identification of the conversion
+          factor used to calculate this value
+          from the quantity of total fat.  If
+          the conversion factor was taken from
+          a table in one of the sources
+          identified by the keywords listed
+          below, the keyword should be used
+          during data interchange.  Otherwise,
+          the conversion factor can be
+          explicitly stated within a secondary
+          tagname.  It is also acceptable to
+          include both a keyword and the
+          specific conversion factor in the
+          data.
+      Keywords: The available keywords for
+          those tables that list the conversion
+          factors for calculating total fatty
+          acids from total fat are:
+     MW  McCance and Widdowson (?)
+     USDA  USDA Handbook No. 8 (?)
+
+      The secondary tagname for identifying
+          a specific fatty acid conversion
+          factor is:
+      <XFA>  conversion factor for
+          calculating total fatty acids from
+          total fat.
+
+<FADT>    fatty acids, total double trans
+      Unit: g
+      Comments: Some countries are planning
+          actions to limit these acids (not
+          single trans) from foods, e.g.,
+          chocolate.
+
+<FAESS>
+     fatty acids, total essential
+     Unit: g
+      Comments: This value is the sum of linoleic
+          acid, linolenic acid, and arachidonic
+          acid.
+     Tables: FRN
+
+<FAFRE>
+     fatty acids, total free
+     Unit: g
+     Tables: USDA 658
+
+<FAMS>
+     fatty acids, total monounsaturated
+     Unit: g
+     Tables: USDA 645, NE, FRN, DAN, SWD
+
+<FAPU>
+     fatty acids, total polyunsaturated
+     Unit: g
+     Tables: USDA 646, IND, NE, FRN, DAN, SWD
+
+<FAPUN3>
+     fatty acids, total n-3 polyunsaturated
+     Unit: g
+
+<FAPUN6>
+     fatty acids, total n-6 polyunsaturated
+     Unit: g
+
+<FASAT>
+     fatty acids, total saturated
+     Unit: g
+     Tables: USDA 606, SFK, NE, EA, FRN, DAN,
+     SWD
+
+<FAT>     fat, total
+     Unit: g
+     Synonyms: total lipid
+      Tables: USDA 204, SFK, MW, ETH, EGP, IND,
+          NE, EA, PRC, FRN, DAN, SWD
+
+<FATCE>   fat, total; derived by analysis using
+          continuous extraction
+     Unit: g
+      Comments: The Soxhlet method has often
+          been used to analyse for total fat
+          using continuous extraction.  This
+          method tends to underestimate the
+          total fat value of a food.
+
+<FATNLEA> total fat by NLEA definition (triglyceride equivalents
+          of fatty acids)
+     Unit: g
+
+<FATRN>   fatty acids, total trans
+     Unit: g
+     Tables: USDA 605
+
+<FATRNM> fatty acids, total trans-monoenoic
+     Unit: g
+     Tables: USDA 693
+
+<FATRNP> fatty acids, total trans-polyenoic
+     Unit: g
+     Tables: USDA 695
+<FD> fluoride
+     Unit: mcg
+     Synonyms: fluorine
+     Tables: USDA 313, SFK, EA, SWD
+
+<FE> iron, total
+     Unit: mg
+     Comments: Includes both haem and non-
+     haem iron.
+      Tables: USDA 303, SFK, MW, ETH, IND,
+          NE, EA, PRC, DAN, SWD
+
+<FERAC>   ferulic acid
+     Unit: mg
+     Tables: SFK
+
+<FIBAD>   fibre; determined by acid detergent
+          method
+     Unit: g
+     Comments: Includes cellulose, lignin,
+     and some hemicelluloses.
+
+<FIBADC>  fibre, acid detergent method, Clancy
+          modification.
+     Unit: g
+     Tables: NZ
+
+<FIBC>    fibre, crude
+     Unit: g
+     Comments: The crude fibre method of
+     fibre analysis is obsolete.
+     Tables: USDA 206, SFK, ETH, EGP
+
+<FIBHEX>  hexoses in dietary fibre
+     Unit: g
+     Tables: DAN
+
+<FIBINS>
+     fibre, water-insoluble
+     Unit: g
+      Comments: Sum of insoluble components from
+          the AOAC total dietary fibre method;
+          includes primarily lignin, cellulose, and
+          most of the hemicellulose.
+      Note: Values for <FIBINS> may also be
+          obtained by subtracting soluble fibre from
+          total dietary fibre, i.e., by subtracting
+          the value of <FIBSOL> from the value of
+          <FIBTG>.
+     Tables: SFK, MW
+
+<FIBND>
+     fibre; determined by neutral detergent
+     method
+     Unit: g
+     Comments: Includes lignin, cellulose, and
+     insoluble hemicellulose.
+     Tables: USDA 273
+
+<FIBPEN>
+     pentoses in dietary fibre
+     Unit: g
+     Tables: USDA 223, DAN
+
+<FIBSOL>
+     fibre, water-soluble
+     Unit: g
+      Comments: Sum of soluble components from
+          the AOAC total dietary fibre method;
+          includes primarily algal polysaccharides,
+          gums, pectins, and mucilages.
+     Tables: SFK
+
+<FIBTG>
+      fibre, total dietary; determined
+          gravimetrically by the AOAC total dietary
+          fibre method
+     Unit: g
+      Comments: Sum of the water-soluble
+          components and the water-insoluble
+          components of dietary fibre; can be
+          calculated by adding the values of
+          <FIBSOL> and <FIBINS>; includes all non-
+          starch polysaccharides and lignin.
+     Tables: SFK
+
+<FIBTS>fibre, total dietary; sum of non-
+               starch polysaccharide components and
+               lignin
+     Unit: g
+      Comments: Sum of the polysaccharide
+          components of dietary fibre measured
+          sequentially on the same sample (for
+          example, by using the Southgate
+          colorimetric procedure) plus lignin
+          measured gravimetrically.
+
+<FIBTSW>  fibre, total dietary; Wenlock
+          modification
+     Unit: g
+     Tables: NZ
+
+<FIB->    fibre; method of determination unknown
+	or variable
+     Unit: g
+      Note: Tagname <FIB-> is used to
+          identify fibre values which represent
+          unknown fibre components or which
+          were obtained by unknown methods or 
+          a mixture of methods. 
+
+<FOL>     folate, total
+     Unit: mcg
+     Synonyms: folacin; folic acid
+     Comments: Includes both conjugated and
+     free folate.
+     Tables: USDA 417, SFK, MW, ETH, IND,
+     EA, DAN, SWD
+
+<FOLAC> folic acid, synthetic folic acid
+     Unit: mcg 
+     Tables: USDA 431 
+
+<FOLFD> folate food, naturally occuring food folates
+     Unit: mcg 
+     Tables: USDA 432
+
+<FOLDFE> folate, dietary folate equivalents
+     Unit: mcg DFE
+     Comments: folate total = mcg food folate + (1.7 X mcg folic acid)
+     Tables: USDA 435
+
+<FOLFRE>  folate, free
+     Unit: mcg
+     Tables: USDA 419, MW, IND, DAN
+
+<FRUFB>   fructose in dietary fibre
+     Unit: mg
+
+<FRUS>    fructose
+     Unit: g
+     Comments: D-fructose only; includes
+     only the free monosaccharide.
+     Tables: USDA 212, SFK, DAN, SWD
+
+<FRUTN> 
+     fructan
+     Unit: g
+
+<FUCSTR28>
+     28-iso-fucosterol
+     Unit: mg
+
+<FUMAC>
+     fumaric acid
+     Unit: mg
+     Tables: USDA 237, SFK
+
+<GALAAC>
+     galacturonic acid
+     Unit: mg
+     Tables: USDA 238, SFK
+
+<GALFB>
+     galactose in dietary fibre
+     Unit: mg
+
+<GALLAC>
+     gallic acid
+     Unit: mg
+     Tables: USDA 239, SFK
+
+<GALS>
+     galactose
+     Unit: g
+     Comments: Includes only the free
+     monosaccharide.
+     Tables: SFK
+
+<GALTN>
+     galactan
+     Unit: g
+
+<GLN>     glutamine
+     Unit: mg
+     Comments: Includes only L-glutamine.
+     Tables: SFK
+
+<GLOB>
+     globulin
+     Unit: mg
+
+<GLU>     glutamic acid
+     Unit: mg
+     Synonym: glutamate
+     Comments: Includes only L-glutamic acid.
+     Tables: USDA 515, SFK, ETH, NE, EA, DAN,
+     SWD
+
+<GLUAKAC> alpha-keto-glutaric acid
+     Unit: mg
+     Tables: SFK
+
+<GLUCAC>  gluconic acid
+     Unit: mg
+     Tables: SFK
+
+<GLUCNB>  betaglucan
+     Unit: g
+
+<GLUFB>   glucose in dietary fibre
+     Unit: mg
+
+<GLUMN>   glucomannan
+     Unit: g
+
+<GLUS>    glucose
+     Unit: g
+     Comments: D-glucose only; includes
+     only the free monosaccharide.
+     Tables: USDA 211, SFK, DAN, SWD
+
+<GLUTN>   gluten
+     Unit: mg
+
+<GLY>     glycine
+     Unit: mg
+     Comments: Includes only L-glycine.
+     Tables: USDA 516, SFK, ETH, NE, EA,
+     DAN, SWD
+
+<GLYC>    glycogen
+     Unit: g
+     Tables: USDA 272, SFK
+
+<GLYCERA> glycerides, total; determined by
+          analysis
+     Unit: g
+
+<GLYCERC> glycerides, total; calculated from
+          fatty acid composition
+     Unit: g
+
+<GLYCER-> glycerides, total; method of
+          determination unknown or variable
+     Unit: g
+
+<GLYCLAC>
+     glycolic acid
+     Unit: mg
+     Tables: USDA 240, SFK
+
+<GLYCM>
+     glycogen; expressed in monosaccharide
+     equivalents
+     Unit: g
+
+<GLYCTEIN>
+    glycitein
+    Unit: mcg
+
+<GLYCTN>
+     glycitin
+     Unit: mcg
+
+<GLYCTNA>
+     acetyl-glycitin
+     Unit: mcg
+
+<GLYCTNM>
+     malonyl-glycitin
+     Unit: mcg
+
+<GLYLIP>
+     glycolipids, total
+     Unit: g
+     Tables: USDA 604
+
+<GLYRL>
+     glycerol
+     Unit: mg
+     Tables: SFK
+
+<GNSTEIN>
+     genistein
+     Unit: mcg
+
+<GNSTIN>
+     genistin
+     Unit: mcg
+
+<GNSTINA>  
+     acetyl-genistin
+     Unit: mcg
+
+<GNSTINM>
+     malonyl-genistin
+     Unit: mcg
+
+<GPCHOLN>
+	Glycerophosphocholine
+	Units: mg
+	Tables: 
+
+<GUMS>
+     gums
+     Unit: g
+
+<HAEM>
+     iron, haem
+     Unit: mg
+
+<HEMCEL>
+     hemicellulose
+     Unit: g
+     Comments: Includes hexose and pentose.
+     Tables: USDA 224, SFK
+
+<HEXSN>
+     hexosan
+     Unit: g
+     Tables: SFK
+
+<HG> mercury
+     Unit: mcg
+     Tables: USDA 370
+
+<HIS>     histidine
+     Unit: mg
+     Comments: Includes only L-histidine.
+     Tables: USDA 512, SFK, ETH, NE, EA, DAN,
+     SWD
+
+<HISTN>   histamine
+     Unit: mg
+     Tables: SFK
+
+<HYP>     hydroxyproline
+     Unit: mg
+     Comments: Includes only L-
+     hydroxyproline.
+     Tables: USDA 521, SFK
+
+<ID> iodide
+     Unit: mcg
+     Synonyms: iodine
+     Tables: USDA 314, SFK, EA, PRC, DAN,
+     SWD
+
+<ILE>     isoleucine
+     Unit: mg
+     Comments: Includes only L-isoleucine.
+     Tables: USDA 503, SFK, ETH, NE, EA,
+     DAN, SWD
+
+<INOTL>   inositol
+     Unit: mcg
+     Tables: USDA 422, SFK
+
+<INULN>   inulin
+     Unit: g
+
+<ISOCAC>  isocitric acid
+     Unit: mg
+     Tables: USDA 241, SFK
+
+<ISOFLVND>  total Isoflavonoids
+     Unit: mcg
+
+<K>  potassium
+      Unit: mg
+      Note: If the value is expressed in
+          millimoles, mmol<NA> must be
+          explicitly stated with the secondary
+          tagname <UNIT/>.
+     Tables: USDA 306, SFK, MW, IND, NE,
+     EA, PRC, DAN, SWD
+
+<LACAC>   lactic acid
+     Unit: mg
+     Tables: USDA 242, SFK
+
+<LACS>    lactose
+     Unit: g
+     Tables: USDA 213, SFK, DAN, SWD
+
+<LACSM>
+     lactose; expressed in monosaccharide
+     equivalents
+     Unit: g
+     Tables: MW
+
+<LEU>     leucine
+     Unit: mg
+     Comments: Includes only L-leucine.
+     Tables: USDA 504, SFK, ETH, NE, EA, DAN,
+     SWD
+
+<LI> lithium
+     Unit: mcg
+     Tables: USDA 368
+
+<LIGN>
+     lignin
+     Unit: g
+     Tables: SFK, DAN, SWD
+
+<LUTN> lutein
+     Unit: mcg
+
+<LYCPN> lycopene
+     Unit: mcg
+
+<LYS>     lysine
+     Unit: mg
+     Comments: Includes only L-lysine.
+     Tables: USDA 505, SFK, ETH, NE, EA, DAN,
+     SWD
+
+<MALAC>
+     malic acid
+     Unit: mg
+     Tables: USDA 243, SFK
+
+<MALS>
+     maltose
+     Unit: g
+     Tables: USDA 214, SFK, DAN, SWD
+
+<MALSM>
+     maltose; expressed in monosaccharide
+     equivalents
+     Unit: g
+
+<MALTRS>
+     maltotriose
+     Unit: g
+
+<MALTRSM>
+     maltotriose; expressed in monosaccharide
+     equivalents
+     Unit: g
+
+<MANFB>   mannose in dietary fibre
+     Unit: mg
+
+<MANN>    mannan
+     Unit: g
+
+<MANTL>   mannitol
+     Unit: mg
+     Tables: USDA 260, SFK
+
+<MET>     methionine
+     Unit: mg
+     Comments: Includes only L-methionine.
+     Tables: USDA 506, SFK, ETH, NE, EA,
+     DAN, SWD
+
+<METH>    methyl alcohol
+     Unit: mg
+     Synonyms: methanol
+     Tables: SFK
+
+<MG> magnesium
+     Unit: mg
+     Tables: USDA 304, SFK, MW, IND, NE,
+     EA, PRC, DAN, SWD
+
+<MGLY>    monoglycerides, total
+     Unit: g
+     Tables: USDA 655
+
+<MN> manganese
+     Unit: mcg
+     Tables: USDA 315, SFK, EA, PRC, DAN,
+     SWD
+
+<MNSAC>   monosaccharides, total
+     Unit: g
+     Comments: Includes only the free
+     monosaccharides.
+
+<MO> molybdenum
+     Unit: mcg
+     Tables: USDA 316, SFK, EA, PRC, DAN,
+     SWD
+
+<MUCIL>   mucilages
+     Unit: g
+
+<NA> sodium
+     Unit: mg
+      Note: If the value is expressed in
+          millimoles, mmol must be explicitly stated
+          with the secondary tagname <UNIT/>.
+     Tables: USDA 307, SFK, MW, IND, NE, EA,
+PRC, DAN, SWD
+
+<NACL>
+     salt
+     Unit: mg
+     Synonyms: NACL
+     Tables: USDA 375, SFK
+
+<NAM>     nitrogen, amino
+     Unit: g
+
+<NHAEM>
+     iron, non-haem
+     Unit: mg
+
+<NI> nickel
+     Unit: mcg
+     Tables: USDA 371, SFK, PRC
+
+<NIA>     niacin, preformed
+     Unit: mg
+      Synonyms: nicotinic acid; nicotinamide 
+          (These terms are not true synonyms but are
+          often used in food tables to refer to
+          niacin.)
+     Comments: Nicotinic acid and nicotinamide.
+      Tables: USDA 406, SFK, MW, ETH, IND, NE,
+          EA, PRC, DAN, SWD
+
+<NIAAVL>
+     niacin, available
+     Unit: mg
+     Comments: total niacin minus bound niacin
+
+<NIAEQ>
+     niacin equivalents, total
+     Unit: mg
+     Comments: Preformed niacin plus niacin
+     equivalents from tryptophan.
+     Tables: USDA 409, DAN, SWD
+
+<NIATRP>  niacin equivalents from tryptophan
+     Unit: mg
+     Comments: 1/60 x tryptophan.
+     Tables: USDA 407 & 408, MW, DAN
+
+<NITRA>   nitrates
+     Unit: mg
+     Tables: USDA 264, SFK
+
+<NITRI>   nitrites
+     Unit: mg
+     Tables: USDA 265, SFK
+
+<NITRN>  nitrosamine, total
+     Unit: mg
+     Tables: USDA 266
+
+<NITRNN>  nitrosamine, non-volatile
+      Unit: mg
+
+<NITRNV>  nitrosamine, volatile
+      Unit: mg
+      Comments: Subject of forthcoming
+          regulations.
+
+<NNP>     nitrogen, non-protein
+     Unit: mg
+
+<NPRO>    nitrogen, protein
+     Unit: g
+
+<NT> nitrogen, total
+     Unit: g
+     Comments: Determined by Kjeldahl
+     method.
+     Tables: USDA 202, MW, ETH, EGP, IND,
+     NE, EA
+
+<OA> organic acids, total
+     Unit: g
+
+<OLSAC>   oligosaccharides, total available
+     Unit: g
+
+<OLSACM>oligosaccharides, total available;
+               expressed in monosaccharide
+               equivalents
+     Unit: g
+
+<OXACAC>  oxaloacetic acid
+     Unit: mg
+     Tables: USDA 244, SFK
+
+<OXALAC>
+     oxalic acid
+     Unit: mg
+     Tables: USDA 245, SFK, IND
+
+<P>  phosphorus
+     Unit: mg
+      Tables: USDA 305, SFK, MW, ETH, EGP, IND,
+          NE, EA, PRC, DAN, SWD
+
+<PANTAC>
+     pantothenic acid
+     Unit: mg
+      Synonyms: D-pantothenate; vitamin B-5
+          (obsolete term, may still appear in some
+          tables)
+     Tables: USDA 410, SFK, MW, EA, DAN, SWD
+
+<PARHBAC>
+     parahydrobenzoic acid
+     Unit: mg
+     Tables: SFK
+
+<PB> lead
+     Unit: mcg
+     Tables: USDA 367
+
+<PCHOLN>
+	Phosphocholine
+	Units: mg
+	Tables: 
+
+<PECT>
+     pectin
+     Unit: g
+      Comments: Reflects AOAC or equivalent
+          procedure.  Polymers of galacturonic acid
+          unspecified.
+      Note: Additional tagnames will be added,
+          when needed by food composition tables and
+          data bases, to reflect the very large
+          number of polysaccharides present in foods
+          and, specifically, to reflect different
+          degrees of methoxylation in pectic
+          substances.
+     Tables: USDA 220, SFK, SWD
+
+<PENSN>
+     pentosan
+     Unit: g
+     Tables: USDA 222, SFK
+
+
+<PHE>     phenylalanine
+     Unit: mg
+     Comments: Includes only L-
+     phenylalanine.
+     Tables: USDA 508, SFK, ETH, NE, EA,
+     DAN, SWD
+
+<PHOLIP>  phospholipids, total
+     Unit: g
+     Tables: USDA 603
+
+<PHYSTR>  phytosterols, total
+     Unit: mg
+     Synonyms: total plant sterols
+      Comments: Includes avenasterol,
+          brassicasterol, campesterol,
+          sitosterol, spinasterol, and
+          stigmasterol.
+     Tables: USDA 636
+
+<PHYTAC>  phytic acid
+     Unit: mg
+     Synonyms: phytin P
+     Tables: USDA 246, SFK, MW, IND
+
+<PIPN>    piperine
+     Unit: g
+     Tables: USDA 259
+
+<PRO>     proline
+     Unit: mg
+     Comments: Includes only L-proline.
+     Tables: USDA 517, SFK, ETH, NE, EA,
+     DAN, SWD
+<PROA>    protein, total; determined by direct
+          analysis
+     Unit: g
+
+<PROANI> protein from animal sources
+     Unit: g
+
+<PROCNA>
+     protein, total; calculated from amino
+     nitrogen
+     Unit: g
+      Comments: Two pieces of data are associated
+          with the tagname <PROCNA>.  The first is
+          the quantity of total protein and the
+          second is the conversion factor used to
+          calculate total protein from amino
+          nitrogen.
+      Note: The total protein found in food
+          tables is rarely calculated from amino
+          nitrogen.  <PROCNT> is the appropriate
+          tagname for total protein in most cases.
+
+<PROCNP>
+     protein, total; calculated from protein
+     nitrogen
+     Unit: g
+      Comments: Two pieces of data are associated
+          with the tagname <PROCNP>.  The first is
+          the quantity of total protein and the
+          second is the conversion factor used to
+          calculate total protein from protein
+          nitrogen.
+      Note: The total protein found in food
+          tables is rarely calculated from protein
+          nitrogen. <PROCNT> is the appropriate
+          tagname for total protein in most cases.
+
+<PROCNT>
+     protein, total; calculated from total
+     nitrogen
+     Unit: g
+      Comments: Three pieces of data are
+          associated with the tagname <PROCNT>.  The
+          first is the quantity of total protein;
+          the second is a keyword which identifies
+          the source of the conversion factor used
+          to calculate the total protein from total
+          nitrogen; and the third is the actual
+          conversion factor used.  If possible, all
+          three pieces of data should be included
+          with <PROCNT>.  However, it is acceptable
+          to include only the keyword or the
+          conversion factor (rather than both) with
+          the total protein value if one or the
+          other is unknown.  If the conversion
+          factor used was generated from a source
+          other than one of those identified by the
+          available keywords, the conversion factor
+          should be listed without any keyword
+          information.
+      Keywords: Following are the available
+          keywords that can be used as the
+          second value for the <PROCNT>
+          tagname:
+     JONES  conversion factor originally
+     derived by Jones (?)
+     Tables: EGP, NE, EA
+      FAO  conversion factor from a table in
+          the FAO Nutritional Studies No. 24
+          (?), reprinted in the World Health
+          Organization Technical Report Series
+          No. 522 (?)
+     Tables: MW, DAN
+      USDA  conversion factor from a table
+          in the United States Department of
+          Agriculture Handbook No. 8 (?)
+     Tables: USDA 203
+      STD  standard conversion factor of
+          6.25, not specific for the type of
+          food.  (If this keyword is used, the
+          6.25 conversion factor should not be
+          listed with the secondary tagname
+          <XN>.)
+     Tables: SFK, IND, PRC
+
+      The following secondary tagname may be
+          used to identify the specific
+          conversion factor used when a keyword
+          other than STD is present, or instead
+          of a keyword (see above).
+      <XN>  conversion factor for
+          calculating total protein from total
+          nitrogen
+      Examples: The 3.2 g/100 g of protein
+          in cow's milk which is listed in the
+          Nutritive Value of Indian Foods was
+          calculated from total nitrogen using
+          the 6.25 conversion factor. 
+          Therefore, the protein value would be
+          listed using the <PROCNT> tagname and
+          the STD keyword:
+               <PROCNT> 3.2 STD </PROCNT>
+
+          The 3.3 g/100 g of protein in cow's milk
+          which is listed in McCance and Widdowson
+          was calculated from total nitrogen using a
+          6.38 conversion factor.  This factor was
+          obtained from the FAO publication. 
+          Therefore, the protein value would be
+          listed using the <PROCNT> tagname, the FAO
+          keyword, and the <XN> secondary tagname:
+               <PROCNT> 3.3 FAO <XN> 6.38 </PROCNT>
+
+          As a hypothetical example, if a value of
+          0.3 g/100 g of protein in watermelon seeds
+          were calculated from total nitrogen using
+          the conversion factor 5.30, and this value
+          had not been taken from one of the tables
+          identified by the list of keywords, the
+          protein value would be listed using the
+          <PROCNT> tagname in the following manner:
+               <PROCNT> 0.3 <XN> 5.30 </PROCNT>
+      Note: In these examples, </PROCNT> is an
+          end-tag required in interchange format to
+          indicate the end of the information about
+          protein calculated from total nitrogen. 
+          See the INFOODS Data Interchange Handbook
+          for details on interchange format.
+
+<PRO->
+     protein, total; method of determination
+     unknown or variable
+     Unit: g
+      Comments: The <PRO-> tagname should be used
+          for a total protein value when it is not
+          known whether the value was the result of
+          a direct analysis or whether it was
+          calculated from total nitrogen, protein
+          nitrogen, or amino nitrogen.  The <PRO->
+          tagname should also be used if it is known
+          that the total protein value was
+          calculated from one of the nitrogen
+          components, but the conversion factor used
+          in the calculation is unknown. 
+
+<PROPAC>
+     propionic acid
+     Unit: mg
+     Tables: SFK
+
+<PROPLA> protein from plant sources
+     Unit: g
+
+<PSACALG> polysaccharides, algal
+     Unit: g
+     Comments: Includes carageenan, agar,
+     and alginates.
+
+<PSACNC>  polysaccharides, non-cellulosic
+     Unit: g
+      Comments: Includes hemicellulose,
+          pectin, gums, algal polysaccharides,
+          and mucilages.
+     Tables: SWD
+
+<PSACNCI> polysaccharides, non-cellulosic,
+          water-insoluble
+     Unit: g
+     Tables: SWD
+
+<PSACNCS> polysaccharides, non-cellulosic,
+          water-soluble
+     Unit: g
+     Tables: SWD
+
+<PSACNS>  polysaccharides, non-starch
+     Unit: g
+     Comments: Includes non-cellulosic
+     polysaccharides and cellulose.
+
+<PSACNSI> polysaccharides, non-starch, water-
+          insoluble
+     Unit: g
+
+<PSACNSS> polysaccharides, non-starch, water-
+          soluble
+     Unit: g
+
+<PURAC>   polyuronic acids
+     Unit: mg
+     Tables: SFK, DAN
+
+<PURN>    purines
+     Unit: mg
+     Tables: SFK
+
+<PYRUAC>  pyruvic acid
+     Unit: mg
+     Tables: USDA 247, SFK
+
+<PYRXL>
+     pyridoxal
+     Unit: mg
+     Comments: Vitamin B-6 aldehyde form.
+     Tables: USDA 412
+
+<PYRXM>
+     pyridoxamine
+     Unit: mg
+     Comments: Vitamin B-6 amine form.
+     Tables: USDA 413
+
+<PYRXN>
+     pyridoxine
+     Unit: mg
+     Comments: Vitamin B-6 alcohol form.
+     Tables: USDA 411, EA
+
+<QUINAC>
+     quinic acid
+     Unit: mg
+     Tables: USDA 248, SFK
+
+<RAFS>
+     raffinose
+     Unit: g
+     Comments: Not available for humans.
+     Tables: SFK
+
+<RAFSM> Raffinose, expressed in monosaccharide equivalents
+     Unit: g
+
+<RB> Rubidium
+     Unit: mg
+
+<RETAL>
+     retinal
+     Unit: mcg
+
+<RETALD>
+     retinaldehyde
+     Unit: mcg
+
+<RETOL>
+     retinol
+     Unit: mcg
+     Synonyms: preformed vitamin A
+     Comments: All-trans retinol only.
+     Tables: USDA 319, MW, NE, EA, DAN, SWD
+
+<RETOL13>
+     13-cis retinol
+     Unit: mcg
+
+<RHAFB>   rhamnose in dietary fibre
+     Unit: mg
+
+<RHAS>    rhamnose
+     Unit: g
+     Comments: Includes only the free
+     sugar.
+
+<RIBF>    riboflavin
+     Unit: mg
+     Synonyms: Vitamin B-2; riboflavine.
+      Tables: USDA 405, SFK, MW, ETH, IND,
+          NE, EA, PRC, DAN, SWD
+
+<RIBS>    ribose
+     Unit: g
+     Comments: D-ribose only; includes only
+     the free monosaccharide.
+
+<S>  sulphur
+     Unit: mg
+     Tables: USDA 308, MW, IND
+
+<SALAC>   salicylic acid
+     Unit: mg
+     Tables: USDA 249
+
+<SB> Antimony
+     Units: mcg
+     Tables: NZ
+
+<SE> selenium, total
+     Unit: mcg
+     Tables: USDA 317, SFK, EA, PRC, DAN,
+     SWD
+
+<SEIO>    selenium, inorganic
+     Unit: mcg
+
+<SEO>     selenium, organic
+     Unit: mcg
+
+<SER>     serine
+     Unit: mg
+     Comments: Includes only L-serine.
+     Tables: USDA 518, SFK, ETH, NE, EA,
+     DAN, SWD
+
+<SEROTN>
+     serotonin
+     Unit: mg
+     Tables: SFK
+
+<SHIKAC>
+     shikimic acid
+     Unit: mg
+     Tables: SFK
+
+<SI> silicon
+     Unit: mcg
+     Tables: USDA 378, SFK, PRC
+
+<SITSTR>
+     sitosterol
+     Unit: mg
+     Comments: Beta-sitosterol only.
+     Tables: USDA 641, SFK
+
+<SN> tin
+     Unit: mcg
+     Tables: USDA 385, SFK
+
+<SOLO> Other solids
+      Unit: g
+
+<SORTL> 
+     sorbitol
+     Unit: mg
+     Tables: USDA 261, SFK
+
+<SPISTR>
+     spinasterol
+     Unit: mg
+     Comments: Alpha-spinasterol only.
+     Tables: USDA 650, FRN
+
+<SR> strontium
+     Unit: mcg
+     Tables: USDA 380
+
+<STARCH>
+     starch, total
+     Unit: g
+      Comments: The sum of all polysaccharides
+          yielding glucose after hydrolysis with
+          suitable enzymes; includes amylose,
+          amylopectin, glycogen, and dextrins.
+     Tables: USDA 209, SFK, DAN, SWD
+
+<STARCHM> starch, total; expressed in
+          monosaccharide equivalents
+     Unit: g
+      Comments: The sum of all
+          polysaccharides yielding glucose
+          after hydrolysis with suitable
+          enzymes; includes amylose,
+          amylopectin, glycogen, and dextrins.
+     Tables: MW
+
+<STARES>  starch, resistant
+     Unit: g
+     Synonyms: retrograded starch
+
+<STAS>    stachyose
+     Unit: g
+     Comments: Not available for humans.
+     Tables: SFK
+
+<STERFRE> sterols, free
+     Unit: mg
+     Tables: USDA 660, SFK
+
+<STERT>   sterols, total
+     Unit: mg
+      Comments: Non-specific colorimetric
+          method or sum of cholesterol and
+          phytosterols.
+     Tables: USDA 634, SFK
+
+<STID7>   delta 7-stigmasterol
+     Unit: mg
+      Comments: Values reported as
+          ``stigmasterol'' in food tables are
+          usually a measure of the delta 7 form
+          only.
+     Tables: USDA 638, SFK
+
+<SUCAC>   succinic acid
+     Unit: mg
+     Tables: USDA 250, SFK
+
+<SUCS>    sucrose
+     Unit: g
+     Tables: USDA 210, SFK, DAN, SWD
+
+<SUCSM>   sucrose; expressed in monosaccharide
+          equivalents
+     Unit: g
+
+<SUGAR>
+     sugars, total
+     Unit: g
+     Comments: Sum of free monosaccharides and
+     disaccharides.
+     Tables: USDA 269, SFK, DAN, SWD
+
+<SUGARM>
+     sugars, total; expressed in monosaccharide
+     equivalents
+     Unit: g
+      Comments: Sum of free monosaccharides and
+          disaccharides expressed in monosaccharide
+          equivalents.
+     Tables: MW
+
+<SUGIN>
+     invert sugar
+     Unit: g
+     Comments: Obsolete.
+     Tables: SFK
+
+<SUGNRD>
+     sugars, non-reducing
+     Unit: g
+     Comments: Obsolete.
+     Tables: USDA 270, SFK
+
+<SUGRD>
+     sugars, reducing
+     Unit: g
+     Comments: Obsolete.
+     Tables: USDA 274, SFK
+
+<TAN> tannins
+     Unit: mg
+
+<TARAC>
+     tartaric acid
+     Unit: mg
+     Tables: USDA 251, SFK
+
+<TAU>  taurine
+     Unit: mg
+
+<TGLY>
+     triglycerides, total
+     Unit: g
+     Tables: USDA 657
+
+<THEBRN>
+     theobromine
+     Unit: mg
+     Tables: USDA 263, SFK
+
+<THIA>    thiamin
+     Unit: mg
+     Synonyms: vitamin B-1; aneurin;
+     thiamine
+      Tables: USDA 404, SFK, MW, ETH, IND,
+          NE, EA, PRC, DAN, SWD
+
+<THR>     threonine
+     Unit: mg
+     Comments: Includes only L-threonine.
+     Tables: USDA 502, SFK, ETH, NE, EA,
+     DAN, SWD
+
+<TOCPHA>  alpha-tocopherol
+     Unit: mg
+     Tables: USDA 323, SFK, DAN, SWD
+
+<TOCPHB>  beta-tocopherol
+     Unit: mg
+     Tables: USDA 341, SFK
+
+<TOCPHD>  delta-tocopherol
+     Unit: mg
+     Tables: USDA 343, SFK
+
+<TOCPHG>  gamma-tocopherol
+     Unit: mg
+     Tables: USDA 342, SFK
+
+<TOCPHT> Total tocopheral
+     Unit: mcg
+     Tables: USDA (nutrient number?)
+
+<TOCTRA>  alpha-tocotrienol
+     Unit: mg
+     Tables: USDA 344, SFK, DAN
+
+<TOCTRB>  beta-tocotrienol
+     Unit: mg
+     Tables: USDA 345, SFK
+
+<TOCTRD>  delta-tocotrienol
+     Unit: mg
+     Tables: USDA 347
+
+<TOCTRG>  gamma-tocotrienol
+     Unit: mg
+     Tables: USDA 346, SFK
+
+<TRP>     tryptophan
+     Unit: mg
+     Comments: Includes only L-tryptophan.
+     Tables: USDA 501, SFK, ETH, NE, EA, DAN,
+     SWD
+
+<TRYPN>
+     tryptamine
+     Unit: mg
+     Tables: SFK
+
+<TYR>     tyrosine
+     Unit: mg
+     Comments: Includes only L-tyrosine.
+     Tables: USDA 509, SFK, ETH, NE, EA, DAN,
+     SWD
+
+<UNSAP>
+     unsaponifiable matter
+     Unit: g
+     Tables: USDA 643, EA
+
+<V>  vanadium
+     Unit: mcg
+     Tables: USDA 389, SFK
+
+<VAL>     valine
+     Unit: mg
+     Comments: Includes only L-valine.
+     Tables: USDA 510, SFK, ETH, NE, EA, DAN,
+     SWD
+
+<VERS>
+     verbascose
+     Unit: g
+
+<VITA>vitamin A; calculated by summation of
+               the vitamin A activities of retinol
+               and the active carotenoids
+      Unit: mcg.  The value for <VITA> may
+          be expressed in international units
+          instead of the default unit of
+          micrograms.  International units are
+          not preferred; however, if they are
+          used, IU must be explicitly stated
+          with the secondary tagname <UNIT/>.
+      Note: It would be confusing and would
+          imply additional information that
+          does not exist if two <VITA> values,
+          i.e., one expressed in mcg and the
+          other expressed in IU, were included
+          for a single food item when one value
+          has simply been calculated from the
+          other using the following conversion
+          equation:  1 retinol equivalent =
+          3.33 IU vitamin A activity from
+          retinol = 10 IU vitamin A activity
+          from beta-carotene.  Consequently,
+          one or the other should be used, but
+          not both.
+     Synonyms: retinol equivalents
+      Comments: Total vitamin A activity =
+          mcg retinol + 1/6 mcg beta-carotene +
+          1/12 mcg other provitamin A
+          carotenoids.
+     Tables: USDA 392 and 318, ETH, IND,
+     DAN
+
+<VITAA>   vitamin A; determined by bioassay
+     Unit: IU
+
+<VITA->
+     vitamin A; method of determination unknown
+      Unit: mcg.  The value for <VITA-> may be
+          expressed in international units instead
+          of the default unit of micrograms. 
+          International units are not preferred;
+          however, if they are used, IU must be
+          explicitly stated with the secondary
+          tagname <UNIT/>.
+       Comments: The <VITA-> tagname should be
+          used if it is not known whether the
+          vitamin A value was determined by bioassay
+          or by calculation.  
+
+<VITAACT>
+     vitamin A acetate
+     Unit: mcg
+     Tables: USDA 325
+
+<VITAPAL>
+     vitamin A palmitate
+     Unit: mcg
+     Tables: USDA 326
+
+<VITB6A>
+     vitamin B-6, total; determined by analysis
+     Unit: mg
+     Tables: USDA 415, MW 
+
+<VITB6C>
+     vitamin B-6, total; calculated by summation
+     Unit: mg
+     Comments: Pyridoxal plus pyridoxamine plus
+     pyridoxine.
+     Tables: USDA 414, SFK, MW, DAN
+
+<VITB6->
+     vitamin B-6, total; method of
+     determination unknown variable
+     Unit: mg
+      Comments: The <VITB6-> tagname should
+          be used if it is not known whether
+          the vitamin B-6 value was determined
+          by analysis or by calculation. 
+
+<VITB12>
+     vitamin B-12
+     Unit: mcg
+     Synonyms: cobalamin
+     Comments: Includes all the active forms of
+     vitamin B-12 in food.
+     Tables: USDA 418, SFK, MW, ETH, IND, EA,
+     PRC, DAN, SWD
+
+<VITC>
+     vitamin C
+     Unit: mg
+      Synonyms: ascorbic acid; ascorbate  (Note
+          that these terms are not true synonyms but
+          are often found in food tables to refer to
+          vitamin C.)
+     Comments: L-ascorbic acid plus L-
+     dehydroascorbic acid.
+     Tables: USDA 401, SFK, MW, ETH, IND, NE,
+     EA, PRC, DAN
+
+<VITD>    vitamin D; calculated by summation of
+          ergocalciferol and cholecalciferol
+      Unit: mcg.  The value for <VITD> may
+          be expressed in international units
+          instead of the default unit of
+          micrograms.  International units are
+          not preferred; however, if they are
+          used, IU must be explicitly stated
+          with the secondary tagname <UNIT/>.
+      Note: It would be confusing and would
+          imply additional information that
+          does not exist if two <VITD> values,
+          i.e., one expressed in mcg and the
+          other expressed in IU, were included
+          for a single food item when one value
+          has simply been calculated from the
+          other using the conversion equation:
+          1 mcg vitamin D = 40 IU. 
+          Consequently, one or the other should
+          be used, but not both.
+     Synonyms: calciferol
+     Comments: Ergocalciferol plus
+     cholecalciferol.
+     Tables: USDA 324, MW
+
+<VITDA>   vitamin D; determined by bioassay
+     Unit: IU
+     Synonyms: calciferol
+     Tables: MW
+
+<VITD->
+     vitamin D; method of determination unknown
+          or variable
+      Unit: mcg.  The value for <VITD-> may be
+          expressed in international units instead
+          of the default unit of micrograms. 
+          International units are not preferred;
+          however, if they are used, IU must be
+          explicitly stated with the secondary
+          tagname <UNIT/>.
+      Note: It would be confusing and would imply
+          additional information that does not exist
+          if two <VITD-> values, i.e., one expressed
+          in mcg and the other expressed in IU, were
+          included for a single food item when one
+          value has simply been calculated from the
+          other using the conversion equation: 1 mcg
+          vitamin D = 40 IU.  Consequently, one or
+          the other should be used, but not both.
+      Comments: The <VITD-> tagname should be
+          used if it is not known whether the
+          vitamin D value was determined by bioassay
+          or by calculation.  
+
+<VITE>
+      vitamin E; calculated by summation of the
+          vitamin E activities of the active
+          tocopherols and tocotrienols; expressed as
+          alpha-tocopherol equivalents
+      Unit: mg.  The value for <VITE> may be
+          expressed in international units instead
+          of the default unit of milligrams. 
+          International units are not preferred;
+          however, if they are used, IU must be
+          explicitly stated with the secondary
+          tagname <UNIT/>.
+      Note: It would be confusing and would imply
+          additional information that does not exist
+          if two <VITE> values, i.e., one expressed
+          in mg and the other expressed in IU, were
+          included for a single food item when one
+          value has simply been calculated from the
+          other using the conversion equation: 1 mg
+          alpha-tocopherol equivalents = 1.49 IU. 
+          Consequently, one or the other should be
+          used, but not both.
+      Comments: In addition to a value for the
+          quantity of vitamin E expressed as alpha-
+          tocopherol equivalents, <VITE> includes a
+          description or listing of the conversion
+          factors used to calculate this
+          vitamin E value from the active
+          tocopherols and tocotrienols.  The
+          conversion factors may be described
+          by a keyword or may be listed using
+          secondary tagnames within <VITE>. 
+          (More than one <VITE> tagname may
+          exist for a single food item if the
+          values were calculated from the
+          active tocopherols and tocotrienols
+          using different conversion factors.)
+      Keywords: The available keywords for
+          describing the conversion factors
+          used for calculating vitamin E in
+          alpha-tocopherol equivalents are
+          listed below:
+      USDA  United States Department of
+          Agriculture conversion factors as
+          reported by McLaughlin & Weihrauch
+          (?)
+               alpha-tocopherol = 1.00
+               beta-tocopherol = 0.40
+               gamma-tocopherol = 0.10
+               delta-tocopherol = 0.01
+               alpha-tocotrienol = 0.30
+               beta-tocotrienol = 0.05
+               gamma-tocotrienol = 0.01
+     Tables: USDA 340
+      MW  conversion factors cited by
+          McCance and Widdowson (?), pages 13
+          and 14.  These values are not used in
+          the vitamin E values in that table.
+               alpha-tocopherol = 1.00
+               beta-tocopherol = 0.30
+               gamma-tocopherol = 0.15
+               alpha-tocotrienol = 0.30
+     Tables: MW
+      RDA  conversion factors reported in
+          the ninth edition of the Recommended
+          Dietary Allowances for the United
+          States (?)
+               alpha-tocopherol = 1.00
+               beta-tocopherol = 0.50
+               gamma-tocopherol = 0.10
+               alpha-tocotrienol = 0.30
+
+      If none of the above keywords apply, the
+          actual conversion factors used to
+          calculate vitamin E should be listed using
+          the following secondary tagnames:
+          <XATP> alpha-tocopherol conversion factor
+          <XBTP> beta-tocopherol conversion factor
+          <XGTP> gamma-tocopherol conversion factor
+          <XDTP> delta-tocopherol conversion factor
+          <XATT> alpha-tocotrienol conversion factor
+          <XBTT> beta-tocotrienol conversion factor
+          <XGTT> gamma-tocotrienol conversion factor
+      Examples: The 0.10 mg/100 g vitamin E value
+          for fresh, whole cow's milk in the McCance
+          and Widdowson food table represents alpha-
+          tocopherol only.  Consequently, the value
+          0.10 would be shown with the <TOCPHA>
+          tagname, not the <VITE> tagname and the
+          associated keyword:
+               <TOCPHA> 0.10 </TOCPHA>
+
+          If a vitamin E value of 0.12, expressed in
+          alpha-tocopherol equivalents, were
+          calculated for whole cow's milk from the
+          alpha-tocopherol, beta-tocopherol, gamma-
+          tocopherol, and alpha-tocotrienol values,
+          and the conversion factors used did not
+          conform to any of the factors described by
+          the available keywords, the vitamin E
+          value would be listed using the <VITE>
+          tagname and the <XBTP>, <XGTP>, and <XATT>
+          secondary tagnames:
+               <VITE> 0.12 <XBTP> 0.4 <XGTP> 0.1 <XATT>
+               0.25 </VITE>
+      Note: In these examples, </VITE> and
+          </TOCPHA> are end-tags required in
+          interchange format to indicate the end of
+          the vitamin E information.  See the
+          INFOODS Data Interchange Handbook for
+          details on interchange format.
+
+<VITEA>
+     vitamin E; determined by bioassay
+     Unit: IU
+     Comments: Rarely used, not in major tables.
+
+<VITE->vitamin E, method of determination
+               unknown or variable; expressed as alpha-
+               tocopherol equivalents.
+      Unit: mg.  The value for <VITE-> may
+          be expressed in international units
+          instead of the default unit of
+          milligrams.  International units are
+          not preferred; however, if they are
+          used, IU must be explicitly stated
+          with the secondary tagname <UNIT/>.
+      Comments: The <VITE-> tagname should
+          be used if it is not known whether
+          the vitamin E value was determined by
+          bioassay or by calculation.  It
+          should also be used if it is known
+          that the vitamin E value was
+          determined by calculation but the
+          conversion factors used in the
+          calculation are not known.  
+
+<VITK>    vitamin K
+     Unit: mcg
+     Comments: Vitamin K-1 plus vitamin K-
+     2.
+     Tables: SFK, DAN, SWD
+
+<WATER>   water
+     Unit: g
+     Synonyms: moisture
+      Tables: USDA 255, SFK, MW, ETH, EGP,
+          IND, NE, EA, PRC, DAN, SWD
+
+<WAX>     wax, total
+     Unit: mg
+     Synonyms: wax esters
+     Tables: USDA 661
+
+<WHEY>
+     whey protein
+     Unit: mg
+     Tables: SFK
+
+<XYLFB>
+     xylose in dietary fibre
+     Unit: mg
+
+<XYLN>
+     xylan
+     Unit: g
+
+<XYLS>
+     xylose
+     Unit: g
+     Comments: D-xylose only; includes only the
+     free monosaccharide.
+     Tables: SFK
+
+<XYLTL>
+     xylitol
+     Unit: mg
+     Tables: SF
+
+<ZEA>  
+     zeaxanthin
+     Unit: mcg
+     Synonyms: 
+     Tables: USDA
+
+<ZN> zinc
+     Unit: mg
+     Tables: USDA 309, MW, EA, PRC, DAN, SWD
+Derived Food Components
+                                               
+        
+
+When the tagnames described in this chapter are
+used in interchange files, they are all
+subsidiary to the <DRVD-COMP> element.
+
+<AAAN>    amino acids, total aromatic; expressed
+          per quantity of nitrogen
+     Unit: mg/g nitrogen
+      Comments: Phenylalanine plus tyrosine
+          only, in spite of the fact that
+          tryptophan is also chemically
+          aromatic.
+     Tables: EA, SWD
+
+<AAAP>    amino acids, total aromatic; expressed
+          per quantity of protein
+     Unit: mg/100 g protein
+      Comments: Phenylalanine plus tyrosine
+          only, in spite of the fact that
+          tryptophan is also chemically
+          aromatic.
+
+<AAET8->essential to total amino acid ratio;
+               includes the eight basic essential
+               amino acids: isoleucine, leucine,
+               lysine, methionine, phenylalanine,
+               threonine, tryptophan, and valine
+      Unit: %  (The use of <UNIT/> is
+          prohibited with this tagname; the
+          value must be expressed as a
+          percentage.)
+     Synonym: E/T
+      Comments: See page ? for a discussion
+          of the denominator of this ratio.
+
+<AAET10A>essential to total amino acid ratio;
+               includes the eight basic essential
+               amino acids plus arginine and
+               histidine
+      Unit: %  (The use of <UNIT/> is
+          prohibited with this tagname; the
+          value must be expressed as a
+          percentage.)
+     Synonym: E/T
+      Comments: Arginine and histidine are
+          included in this essential amino acid
+          total because they are essential for
+          infants.  See page ? for a discussion
+          of the denominator of this ratio.
+
+<AAET10B>
+      essential to total amino acid ratio;
+          includes the eight basic essential amino
+          acids plus cystine and tyrosine
+      Unit: %  (The use of <UNIT/> is prohibited
+          with this tagname; the value must be
+          expressed as a percentage.)
+     Synonym: E/T
+      Comments: Cystine and tyrosine are included
+          in this essential amino acid total because
+          of their sparing effect on methionine and
+          phenylalanine respectively.  See page ?
+          for a discussion of the denominator of
+          this ratio.
+
+<AAET12>
+      essential to total amino acid ratio;
+          includes the eight basic essential amino
+          acids plus arginine, histidine, cystine,
+          and tyrosine
+      Unit: %  (The use of <UNIT/> is prohibited
+          with this tagname; the value must be
+          expressed as a percentage.)
+     Synonym: E/T
+      Comments: Arginine and histidine are
+          included in this essential amino acid
+          total because they are essential for
+          infants; cystine and histidine are
+          included in the total because of their
+          sparing effects on methionine and
+          phenylalanine respectively.  See page ?
+          for a discussion of the denominator of
+          this ratio.
+     Tables: ETH
+
+<AAET->
+      essential to total amino acid ratio;
+          neither the numerator (which amino acids
+          are considered essential) nor the
+          denominator (which amino acids are
+          included in the total) is specified
+      Unit: %  (The use of <UNIT/> is prohibited
+          with this tagname; the value must be
+          expressed as a percentage.)
+     Synonym: E/T
+      Comments: See page ? for a discussion of
+          the denominator of this ratio.
+
+<AAE8N>amino acids, total essential;
+               expressed per quantity of nitrogen;
+               includes the eight basic essential
+               amino acids: isoleucine, leucine,
+               lysine, methionine, phenylalanine,
+               threonine, tryptophan, and valine
+     Unit: mg/g nitrogen
+
+<AAE8P>amino acids, total essential;
+               expressed per quantity of protein;
+               includes the eight basic essential
+               amino acids: isoleucine, leucine,
+               lysine, methionine, phenylalanine,
+               threonine, tryptophan and valine
+     Unit: mg/100 g protein
+
+<AAE10AN>amino acids, total essential;
+               expressed per quantity of nitrogen;
+               includes the eight basic essential
+               amino acids plus arginine and
+               histidine
+     Unit: mg/g nitrogen
+      Comments: Arginine and histidine are
+          included in this total essential
+          amino acid value because they are
+          essential for infants.
+
+<AAE10AP>amino acids, total essential;
+               expressed per quantity of protein;
+               includes the eight basic essential
+               amino acids plus arginine and
+               histidine
+     Unit: mg/100 g protein
+      Comments: Arginine and histidine are
+          included in this total essential
+          amino acid value because they are
+          essential for infants.
+
+<AAE10BN>amino acids, total essential;
+               expressed per quantity of nitrogen;
+               includes the eight basic essential
+               amino acids plus cystine and
+               tyrosine
+     Unit: mg/g nitrogen
+      Comments: Cystine and tyrosine are
+          included in this total essential
+          amino acid value because of their
+          sparing effects on methionine and
+          phenylalanine respectively.
+
+<AAE10BP>
+      amino acids, total essential; expressed per
+          quantity of protein; includes the eight
+          basic essential amino acids plus cystine
+          and tyrosine
+     Unit: mg/100 g protein
+      Comments: Cystine and tyrosine are included
+          in this total essential amino acid value
+          because of their sparing effects on
+          methionine and phenylalanine respectively.
+
+<AAE12N>
+      amino acids, total essential; expressed per
+          quantity of nitrogen; includes the eight
+          basic essential amino acids plus arginine,
+          histidine, cystine, and tyrosine
+     Unit: mg/g nitrogen
+      Comments: Arginine and histidine are
+          included in this total essential amino
+          acid value because they are essential for
+          infants; cystine and tyrosine are included
+          because of their sparing effects on
+          methionine and phenylalanine respectively.
+     Tables: ETH, NE, EA
+
+<AAE12P>
+      amino acids, total essential; expressed per
+          quantity of protein; includes the eight
+          basic essential amino acids plus arginine,
+          histidine, cystine, and tyrosine
+     Unit: mg/100 g protein
+      Comments: Arginine and histidine are
+          included in this total essential amino
+          acid value because they are essential for
+          infants; cystine and tyrosine are included
+          because of their sparing effects on
+          methionine and phenylalanine respectively.
+
+<AAEN->
+      amino acids, total essential; expressed per
+          quantity of nitrogen; unknown which amino
+          acids are included in the total value
+     Unit: mg/g nitrogen
+
+<AAEP->
+      amino acids, total essential; expressed per
+          quantity of protein; unknown which amino
+          acids are included in the total value
+     Unit: mg/100 g protein
+
+<AALB>
+     limiting amino acid; determined
+     through biological experiment
+      Unit: None  (The use of <UNIT/> is
+          prohibited with this tagname since no
+          unit is required for its value.)
+      Comments: Two pieces of data are
+          associated with the tagname <AALB>. 
+          The first is the tagname of the
+          limiting amino acid; the second is a
+          keyword identifying the animal used
+          in the biological experiments which
+          determined the limiting amino acid.
+      Keywords: The following keywords are
+          available for identifying the animal
+          in which the biological experiments
+          were conducted:
+     MAN  experiments conducted with human
+     subjects
+     RAT  experiments conducted with rats
+
+<AALC>
+     limiting amino acid; determined through
+     calculation
+      Unit: None  (The use of <UNIT/> is
+          prohibited with this tagname since no unit
+          is required for its value.)
+      Comments: The limiting amino acid is
+          determined by comparing the quantity of
+          each essential amino acid in the food to
+          the quantity of the same amino acid in a
+          reference protein or amino acid mixture. 
+          The amino acid found in the lowest ratio
+          is the limiting amino acid.
+          Two data items are associated with
+          tagname <AALB>.  The first is the tagname
+          of the limiting amino acid; the second is
+          a keyword identifying the reference
+          protein or amino acid pattern used in
+          calculation of the chemical (amino acid)
+          score.
+      Keywords: The keywords to designate the
+          reference pattern are identical to those
+          for the chemical score.  See tagname
+          <CHEMSC> on page 37.
+     Tables: EA
+      Example: In the FAO Food Composition Table
+          for Use in East Asia, lysine is listed as
+          the limiting amino acid in sesame seeds. 
+          This determination was made through
+          calculations of chemical score using
+          the FAO reference protein pattern
+          recommended in 1973.  Therefore, the
+          <AALC> tagname would be used to
+          convey this information in the
+          following manner:
+               <AALC> LYS FAO73 </AALC>
+      Note: In this example, </AALC> is an
+          end-tag required in interchange
+          format to indicate the end of the
+          information about the limiting amino
+          acid.  See the INFOODS Data
+          Interchange Handbook for details on
+          interchange format.
+
+<AASN>    amino acids, total sulphur-containing;
+          expressed per quantity of nitrogen
+     Unit: mg/g nitrogen
+     Comments: Cystine plus methionine.
+     Tables: NE, EA, SWD
+
+<AASP>amino acids, total sulphur-containing;
+               expressed per quantity of protein
+     Unit: mg/100 g protein
+     Comments: Cystine plus methionine.
+
+<AATN>amino acids, total; expressed per
+               quantity of nitrogen
+     Unit: mg/g nitrogen
+     Tables: ETH, NE, EA
+
+<AATP>amino acids, total; expressed per
+               quantity of protein
+     Unit: mg/100 g protein
+
+<ALAN>    alanine; expressed per quantity of
+          nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, ETH, NE, EA, DAN, SWD
+
+<ALAP>    alanine; expressed per quantity of
+          protein
+     Unit: mg/100 g protein
+
+<ARGN>    arginine; expressed per quantity of
+          nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, IND, ETH, NE, EA, DAN, SWD
+
+<ARGP>
+     arginine; expressed per quantity of protein
+     Unit: mg/100 g protein
+
+<ASNN>
+     asparagine; expressed per quantity of
+     nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, ETH, NE, EA
+
+<ASNP>
+     asparagine; expressed per quantity of
+     protein
+     Unit: mg/100 g protein
+
+<ASPN>
+     aspartic acid; expressed per quantity of
+     nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, ETH, NE, EA, DAN, SWD
+
+<ASPP>
+     aspartic acid; expressed per quantity of
+     protein
+     Unit: mg/100 g protein
+
+<CHEMSC>
+     chemical score
+      Unit: None  (The chemical score should be
+          expressed as a ratio, not as a percentage
+          value.  Also, the use of <UNIT/> is
+          prohibited with this tagname since no unit
+          is required.)
+     Synonyms: protein score, amino acid score
+      Comments: Chemical score is the ratio of
+          the quantity of the limiting amino acid in
+          the food per quantity of this same amino
+          acid in the protein of egg or a standard
+          amino acid reference mixture.
+      Keywords: Three data items are associated
+          with the tagname <CHEMSC>: the calculated
+          chemical score, a keyword to identify the
+          reference protein or amino acid mixture
+          that was used in determining the chemical
+          score, and an optional second keyword to
+          indicate the basis of the calculation. 
+          The available values of the first keyword
+          are:
+      EGG  egg protein, as described by Block and
+          Mitchell (?) or an equivalent method.
+      MILK  human milk protein
+      FAO57  reference protein pattern based
+          on human amino acid requirements and
+          recommended by FAO in 1957 (?)
+      FAO65  reference protein pattern based
+          on egg protein and suggested by the
+          Joint FAO/WHO Expert Committee on
+          Energy and Protein Requirements in
+          1965 (?)
+      FAO73  reference protein pattern based
+          on human amino acid requirements and
+          suggested by the Joint FAO/WHO Expert
+          Committee on Energy and Protein
+          Requirements in 1973 (?)
+      Note: Additional keywords will be
+          added as reference mixtures are
+          defined and used in food composition
+          data bases.
+      Keywords: If it is known whether the
+          calculation is based on values
+          determined with respect to total
+          protein or with respect to total
+          nitrogen, this can be specified with
+          an additional keyword, whose possible
+          values are:
+      N  values calculated per gram of
+          nitrogen in test mixture
+      P  values calculated per gram of
+          protein in test mixture
+     See chapter 3 of Pellett and Young (?)
+     for additional discussion.
+     Tables: ETH, EA
+      Example: In the FAO Food Composition
+          Table For Use in East Asia, the
+          chemical score for sesame seeds is
+          listed as 58 (this is a percentage:
+          0.58 x 100).  The value was
+          calculated using the 1973 FAO
+          reference protein pattern.  This
+          information would be conveyed using
+          the <CHEMSC> tagname in the following
+          manner:
+               <CHEMSC> 0.58 FAO73 </CHEMSC>
+      Note: In this example, </CHEMSC> is an
+          end-tag required in interchange
+          format to indicate the end of the
+          chemical score information.  See the
+          INFOODS Data Interchange Handbook for
+          details on interchange format.
+
+<CYSN>
+     cystine; expressed per quantity of nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, IND, ETH, NE, EA, DAN, SWD
+
+<CYSP>
+     cystine; expressed per quantity of protein
+     Unit: mg/100 g protein
+
+<DEN>  density
+     Unit: mass per unit volume, unit usually g/cubic cm
+
+<ENERPA>
+     energy, percent contributed by alcohol
+      Unit: %  (The use of <UNIT/> is prohibited
+          with this tagname; the value must be
+          expressed as a percentage.)
+
+<ENERPC>
+     energy, percent contributed by carbohydrate
+      Unit: %  (The use of <UNIT/> is prohibited
+          with this tagname; the value must be
+          expressed as a percentage.)
+
+<ENERPF>
+     energy, percent contributed by fat
+      Unit: %  (The use of <UNIT/> is prohibited
+          with this tagname; the value must be
+          expressed as a percentage.)
+
+<ENERPP>
+     energy, percent contributed by protein
+      Unit: %  (The use of <UNIT/> is prohibited
+          with this tagname; the value must be
+          expressed as a percentage.)
+
+<F4D0F>
+     fatty acid 4:0; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: butyric acid; tetranoic acid
+     Tables: MW, FRN, DAN, SWD
+
+<F5D0F>
+     fatty acid 5:0
+     Unit: g/100g total fatty acid
+
+<F6D0F>
+     fatty acid 6:0; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: caproic acid; hexanoic acid
+     Tables: MW, FRN, DAN, SWD
+
+<F8D0F>   fatty acid 8:0; expressed per quantity
+          of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: caprylic acid; octanoic acid
+     Tables: MW, FRN, DAN, SWD
+
+<F10D0F>  fatty acid 10:0; expressed per
+          quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: capric acid; decanoic acid
+     Tables: MW, FRN, DAN, SWD
+
+<F12D0F>  fatty acid 12:0; expressed per
+          quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: lauric acid; dodecanoic acid
+     Tables: MW, NE, FRN, DAN, SWD
+
+<F13D0F>  fatty acid 13:0; expressed per
+          quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: tridecanoic acid
+     Tables: FRN
+
+<F14D0F>  fatty acid 14:0; expressed per
+          quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: myristic acid; tetradecanoic
+     acid
+     Tables: MW, NE, FRN, DAN, SWD
+
+<F15D0F>  fatty acid 15:0; expressed per
+          quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: pentadecylic acid;
+     pentadecanoic acid
+     Tables: FRN, DAN
+
+<F16D0F>  fatty acid 16:0; expressed per
+          quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: palmitic acid; hexadecanoic
+     acid
+     Tables: MW, NE, FRN, DAN, SWD
+
+<F17D0F>
+     fatty acid 17:0; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: margaric acid; heptadecanoic acid
+     Tables: FRN, DAN
+
+<F18D0F>
+     fatty acid 18:0; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: stearic acid; octadecanoic acid
+     Tables: MW, NE, FRN, DAN, SWD
+
+<F19D0F>
+     fatty acid 19:0
+     Unit: g/100g total fatty acid,
+     nonadecanoic acid
+
+<F20D0F>
+     fatty acid 20:0; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: arachidic acid; eicosanoic acid
+     Tables: MW, FRN, DAN, SWD
+
+<F21D0F>
+     fatty acid 21:0
+     Unit: g/100g total fatty acid
+
+<F22D0F>
+     fatty acid 22:0; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: behenic acid; docosanoic acid
+     Tables: MW, FRN, DAN, SWD
+
+<F23D0F>
+     fatty acid 23:0; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: tricosanoic acid
+     Tables: FRN
+
+<F24D0F>
+     fatty acid 24:0; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: lignoceric acid; tetracosanoic
+     acid
+     Tables: MW, FRN
+
+
+<F10D1F>
+     fatty acid 10:1; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Tables: NZ
+
+<F12D1F>
+     fatty acid 12:1; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: lauroleic acid
+     Tables: FRN
+
+<F14D1F>
+     fatty acid 14:1; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: myristoleic acid; tetradecenoic
+     acid
+     Tables: FRN, DAN
+
+<F15D1F>
+     fatty acid 15:1; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: pentadecenoic acid
+     Tables: FRN, DAN
+
+<F15D1N9F>
+     fatty acid 15:1 n-9
+     Unit: g/100g total fatty
+     acid
+
+<F16D1F>
+     fatty acid 16:1; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: palmitoleic acid; hexadecenoic
+     acid
+     Tables: MW, NE, FRN, DAN, SWD
+
+<F17D1F>
+     fatty acid 17:1; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: heptadecenoic acid
+     Tables: FRN, DAN
+
+<F18D1F>
+     fatty acid 18:1; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: oleic acid; octadecenoic acid
+     Tables: FRN, DAN, SWD
+
+<F18D1N7F>
+      fatty acid 18:1 n-7; expressed per
+      quantity of total fatty acids
+      Unit: g/100 g fatty acid
+      Tables: NZ
+
+<F18D1CN9F>
+     fatty acid 18:1 cis n-9
+     Unit: g/100g total fatty acid
+
+<F18D1N9F>fatty acid 18:1 n-9; expressed
+                    per quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Tables: NZ
+
+<F18D1TN9F>
+      fatty acid trans 18:1 n-9; expressed
+      per quantity of total fatty acids
+      Unit: g/100 g fatty acid
+      Synonyms: elaidic acid; octadecenoic
+      acid
+      Tables: MW, NE, FRN
+
+<F19D1N7F>
+     fatty acid 19:1 n-7
+     Unit: g/100g total fatty acid
+
+<F20D1F>
+     fatty acid 20:1; expressed per
+     quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: gadoleic acid; eicosenoic
+     acid
+     Tables: MW, NE, FRN, DAN, SWD
+
+<F20D1N7F>
+     fatty acid 20:1 n-7
+     Unit: g/100g total fatty acid
+
+<F20D1N9F>
+     fatty acid 20:1 n-9
+     Unit: g/100g total fatty acid
+
+<F20D1N11F>
+     fatty acid 20:1 n-11
+     Unit: g/100g total fatty acid
+
+<F22D1F>
+     fatty acid 22:1; expressed per
+     quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: erucic acid; cetoleic acid;
+     docosenoic acid
+     Tables: MW, NE, FRN, DAN, SWD
+
+<F22D1CN9F>
+     fatty acid cis 22:1 n-9; expressed
+     per quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: erucic acid; docosenoic acid
+     Tables: FRN, SWD
+
+<F22D1N9F>
+     fatty acid 22:1 n-9
+     Unit: g/100g total fatty acid
+
+<F22D1TN9F>
+     fatty acid trans 22:1 n-9;
+     expressed per quantity of total fatty
+     acids
+     Unit: g/100 g fatty acid
+     Synonyms: brassidic acid
+     Tables: FRN
+
+<F23D1F>fatty acid 23:1; expressed per
+               quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Tables: NZ
+
+<F24D1F>
+     fatty acid 24:1; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Tables: FRN
+
+<F16D2N4F>
+     fatty acid 16:2 n-4
+     Unit: g/100g total fatty acid
+
+<F16D2N7F>
+     fatty acid 16:2 n-7
+     Unit: g/100g total fatty acid
+
+<F16D3N3F>
+     fatty acid 16:3 n-3
+     Unit: g/100g total fatty acid
+
+<F16D3N4F>
+     fatty acid 16:3 n-4
+     Unit: g/100g total fatty acid
+
+<F16D4N1F>
+     fatty acid 16:4 n-1
+     Unit: g/100g total fatty acid
+
+<F16D4N4F>
+     fatty acid 16:4 n-4
+     Unit: g/100g total fatty acid
+
+<F18D2F>
+     fatty acid 18:2; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Tables: NZ
+
+<F18D2CN3F>
+     fatty acid 18:2cis n-3
+     Unit: g
+
+<F18D2CN6F>
+     fatty acid cis,cis 18:2 n-6; expressed
+     per quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: linoleic acid; octadecadienoic
+     acid
+     Tables: MW, NE, FRN, DAN, SWD
+
+<F18D2N4F>
+     fatty acid 18:2 n-4
+     Unit: g/100g total fatty acid
+
+<F18D2N6F>
+     fatty acid 18:2, n-6
+     Unit: g/100g total fatty acid
+
+<F18D2TN6F>
+     fatty acid 18:2trans n-6
+     Unit: g/100g total fatty acid
+
+<F18D2N9F>
+     fatty acid 18:2 n-9
+     Unit: g/100g total fatty acid
+
+<F18D3F>
+      fatty acid 18:2; expressed per quantity of
+          total fatty acids
+     Unit: g/100 g fatty acid
+     Tables: NZ
+
+<F18D3N3F>
+     fatty acid 18:3 n-3; expressed per
+     quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: alpha-linolenic acid;
+     octadecatrienoic acid
+     Tables: MW, NE, FRN, DAN, SWD
+
+<F18D3N6F>
+     fatty acid 18:3 n-6; expressed per
+     quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: gamma-linolenic acid
+     Tables: FRN
+
+<F18D4F>
+     fatty acid 18:4; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: parinaric acid; stearidonic acid;
+     octadecatetraenoic acid
+     Tables: NE, FRN
+
+<F18D4N3F>     fatty acid 18:4 n-3; expressed
+               per quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Tables: FRN
+
+<F20D2F>  fatty acid 20:2; expressed per
+          quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: eicosadienoic acid
+     Tables: FRN
+
+<F20D2N6F> fatty acid 20:2 n-6
+     Unit: g/100g total fatty acid
+
+<F20D3F>  fatty acid 20:3; expressed per
+          quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: eicosatrienoic acid
+     Tables: FRN, DAN
+
+<F20D3N3F> fatty acid 20:3 n-3
+     Unit: g/100g total fatty acid
+
+<F20D3N6F> fatty acid 20:3 n-6
+     Unit: g/100g total fatty acid,
+     homogammalinolenic
+
+<F20D3N9F> fatty acid 20:3 n-9
+     Unit: g/100g total fatty acid
+
+<F20D4F>  fatty acid 20:4; expressed per
+          quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: arachidonic acid
+     Tables: FRN
+
+<F20D4N3F> fatty acid 20:4 n-3
+     Unit g/100g total fatty acid
+
+<F20D4N6F>     fatty acid 20:4 n-6; expressed
+               per quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: arachidonic acid;
+     eicosatetraenoic acid
+     Tables: MW, NE, FRN, DAN, SWD
+
+<F20D5F>  fatty acid 20:5; expressed per
+          quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: eicosapentaenoic acid
+     Tables: FRN
+
+<F20D5N3F>     fatty acid 20:5 n-3; expressed
+               per quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: eicosapentaenoic acid; EPA;
+     timnodonic acid
+     Tables: NE, FRN, DAN, SWD
+
+<F21D5N3F> fatty acid 21:5 n-3
+     Unit: g/100g total fatty acid
+
+<F22D2F>  fatty acid 22:2; expressed per
+          quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: docosadienoic acid
+     Tables: FRN
+
+<F22D3F>
+      fatty acid 22:3; expressed per quantity of
+          total fatty acids
+     Unit: g/100 g fatty acid
+     Tables: NZ
+
+<F22D4F>
+     fatty acid 22:4; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: docosatetraenoic acid
+     Tables: FRN
+
+<F22D4N3F> fatty acid 22:4 n-3
+     Unit: g/100g total fatty acid
+
+<F22D5F>
+     fatty acid 22:5; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: docosapentaenoic acid
+     Tables: FRN
+
+<F22D5N3F>
+     fatty acid 22:5 n-3; expressed per
+     quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: docosapentaenoic acid
+     Tables: NE, FRN, DAN, SWD
+
+<F22D5N6F>
+      fatty acid 22:5 n-6; expressed per
+          quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Tables: NZ
+
+<F22D6F>
+     fatty acid 22:6; expressed per quantity of
+     total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: docosahexaenoic acid
+     Tables: FRN
+
+<F22D6N3F>
+     fatty acid 22:6 n-3; expressed per
+     quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Synonyms: docosahexaenoic acid; DHA
+     Tables: NE, FRN, DAN, SWD
+
+<F24D6>fatty acid 24:6; expressed per
+               quantity of total fatty acids
+     Unit: g/100 g fatty acid
+     Tables: NZ
+
+<F24D6F> fatty acid 24:6 n-6
+     Unit: g/100g total fatty acid
+     Note: this is a correction to 1993 version where terminal F
+     was inadvertantly omitted
+
+<FAESSF>  fatty acids, total essential;
+          expressed per quantity of total fatty
+          acids
+     Unit: g/100 g
+     Comments: Linoleic acid plus linolenic
+     acid plus arachidonic acid.
+     Tables: FRN
+
+<FAFREF>  fatty acids, total free; expressed per
+          quantity of total fatty acids
+     Unit: g/100 g fatty acid
+
+<FAMSF>fatty acids, total monounsaturated;
+               expressed per quantity of total fatty
+               acids
+     Unit: g/100 g fatty acid
+     Tables:NE, FRN, DAN, SWD
+
+<FAPUF>fatty acids, total polyunsaturated;
+               expressed per quantity of total fatty
+               acids
+     Unit: g/100 g fatty acid
+     Tables: NE, FRN, DAN, SWD
+
+<FAPUN3F>fatty acids, total n-3
+               polyunsaturated; expressed per
+               quantity of total fatty acids
+     Unit: g/100 g fatty acid
+
+<FAPUN6F>fatty acids, total n-6
+               polyunsaturated; expressed per
+               quantity of total fatty acids
+     Unit: g/100 g fatty acid
+
+<FASATF>  fatty acids, total saturated;
+          expressed per quantity of total fatty
+          acids
+     Unit: g/100 g fatty acid
+     Tables: NE, FRN, DAN, SWD
+
+<FATRNF>  fatty acids, total trans; expressed
+          per quantity of total fatty acids
+     Unit: g/100 g fatty acid
+
+<GLNN>
+     glutamine; expressed per quantity of
+     nitrogen
+     Unit: mg/g nitrogen
+
+<GLNP>
+     glutamine; expressed per quantity of
+     protein
+     Unit: mg/100 g protein
+
+<GLUN>
+     glutamic acid; expressed per quantity of
+     nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, ETH, NE, EA, DAN, SWD
+
+<GLUP>
+     glutamic acid; expressed per quantity of
+     protein
+     Unit: mg/100 g protein
+
+<GLYN>
+     glycine; expressed per quantity of nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, ETH, NE, EA, DAN, SWD
+
+<GLYP>
+     glycine; expressed per quantity of protein
+     Unit: mg/100 g protein
+
+<HISN>
+     histidine; expressed per quantity of
+     nitrogen
+     Unit: mg/g nitrogen
+     Tables:MW, IND, ETH, NE, EA, DAN, SWD
+
+<HISP>
+     histidine; expressed per quantity of
+     protein
+     Unit: mg/100 g protein
+
+<HYPN>
+     hydroxyproline; expressed per quantity of
+     nitrogen
+     Unit: mg/g nitrogen
+
+<HYPP>
+     hydroxyproline; expressed per quantity of
+     protein
+     Unit: mg/100 g protein
+
+<ILEN>    isoleucine; expressed per quantity of
+          nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, IND, ETH, NE, EA, DAN, SWD
+
+<ILEP>    isoleucine; expressed per quantity of
+          protein
+     Unit: mg/100 g protein
+
+<LEUN>    leucine; expressed per quantity of
+          nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, IND, ETH, NE, EA, DAN, SWD
+
+<LEUP>    leucine; expressed per quantity of
+          protein
+     Unit: mg/100 g protein
+
+<LYSN>    lysine; expressed per quantity of
+          nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, IND, ETH, NE, EA, DAN, SWD
+
+<LYSP>    lysine; expressed per quantity of
+          protein
+     Unit: mg/100 g protein
+
+<METN>    methionine; expressed per quantity of
+          nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, IND, ETH, NE, EA, DAN, SWD
+
+<METP>    methionine; expressed per quantity of
+          protein
+     Unit: mg/100 g protein
+
+<NPR>     nitrogen-protein ratio
+      Unit: None (The use of <UNIT/> is
+          prohibited with this tagname since no
+          unit is required for its value.)
+      Comment: Determined by dividing total
+          nitrogen by total protein.  In most
+          cases, if <PROCNT> (cf.) is used with
+          the <XN> subtag (for documentation
+          purposes there), this value will be
+          the same as the <XN> value.
+     Tables: NZ
+
+<NPU>     net protein utilization
+      Unit: None  (The use of <UNIT/> is
+          prohibited with this tagname since no unit
+          is required for its value.)
+     Synonyms: NPU
+      Comments: Net protein utilization is the
+          proportion of nitrogen intake that is
+          retained.  This value is the product of
+          digestibility and the proportion of
+          absorbed nitrogen that is retained
+          (biological value).
+      Keywords: The tagname <NPU> requires two
+          data items: the NPU value and a keyword
+          identifying the animal used to
+          experimentally determine digestiblity and
+          biological value.  The available keywords
+          are:
+     MAN  experiments conducted with human
+     subjects
+     RAT  experiments conducted with rats
+     Tables: USDA 267
+
+<PER>     protein efficiency ratio
+      Unit: None  (The use of <UNIT/> is
+          prohibited with this tagname since no unit
+          is required for its value.)
+     Synonyms: PER
+      Comments: Protein efficiency ratio is
+          defined as weight gain per weight of
+          protein eaten.  
+      Keywords: The tagname <PER> requires two
+          data items: the PER value and a keyword
+          identifying the animal used to
+          biologically determine this value.  The
+          available keywords are:
+     MAN  experiments conducted with human
+     subjects
+     RAT  experiments conducted with rats fed
+     10% protein
+     Tables: USDA 229
+
+<PH> pH, hydrogen ion concentration
+     Unit none
+
+<PHEN>
+     phenylalanine; expressed per quantity of
+     nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, IND, ETH, NE, EA, DAN, SWD
+
+<PHEP>    phenylalanine; expressed per quantity
+          of protein
+     Unit: mg/100 g protein
+
+<PRON>    proline; expressed per quantity of
+          nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, ETH, NE, EA, DAN, SWD
+
+<PROP>    proline; expressed per quantity of
+          protein
+     Unit: mg/100 g protein
+
+<SERN>    serine; expressed per quantity of
+          nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, ETH, NE, EA, DAN, SWD
+
+<SERP>    serine; expressed per quantity of
+          protein
+     Unit: mg/100 g protein
+
+<TAUN> Taurine
+     Unit: mg/g nitrogen
+
+<THRN>    threonine; expressed per quantity of
+          nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, IND, WTH, NE, EA, DAN, SWD
+
+<THRP>    threonine; expressed per quantity of
+          protein
+     Unit: mg/100 g protein
+
+<TRPN>    tryptophan; expressed per quantity of
+          nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, IND, ETH, NE, EA, DAN, SWD
+
+<TRPP>    tryptophan; expressed per quantity of
+          protein
+     Unit: mg/100 g protein
+
+<TYRN>    tyrosine; expressed per quantity of
+          nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, IND, ETH, NE, EA, DAN, SWD
+
+<TYRP>    tyrosine; expressed per quantity of
+          protein
+     Unit: mg/100 g protein
+
+<VALN>
+     valine; expressed per quantity of nitrogen
+     Unit: mg/g nitrogen
+     Tables: MW, IND, ETH, NE, EA, DAN, SWD
+
+<VALP>
+     valine; expressed per quantity of protein
+     Unit: mg/100 g protein
