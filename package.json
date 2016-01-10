@@ -2,14 +2,19 @@
   "name": "nutritious",
   "version": "0.0.0",
   "description": "",
-  "scripts": {},
+  "scripts": {
+    "export": "node --harmony_destructuring export.js"
+  },
   "author": "",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.1.1",
     "csv-parse": "^1.0.1",
+    "deep-extend": "^0.4.0",
     "iconv-lite": "^0.4.13",
-    "ramda": "^0.19.1"
+    "ramda": "^0.19.1",
+    "tomlify-j0.4": "^1.0.1",
+    "yargs": "^3.31.0"
   },
   "devDependencies": {
     "eslint": "^1.10.3",
