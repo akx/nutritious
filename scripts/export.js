@@ -11,7 +11,7 @@ const formatterFuncs = {
 
 
 function run(opts) {
-  const exporter = require("./exporters/" + opts.exporter);
+  const exporter = require("../lib/exporters/" + opts.exporter);
   const formatters = opts.formats.map((name) => {
     const func = formatterFuncs[name];
     if (!func) {

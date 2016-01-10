@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "scripts": {
-    "export": "node --harmony_destructuring export.js"
+    "export": "node --harmony_destructuring scripts/export.js"
   },
   "author": "",
   "license": "MIT",
