@@ -8,6 +8,6 @@ Export Fineli.fi data as JSON
 
 ```
 npm i
-npm run export -- -x fineli -f json
+npm run export -- -i fineli -f json
 # now look in out/ !
 ```

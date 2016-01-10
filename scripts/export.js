@@ -11,7 +11,7 @@ const formatterFuncs = {
 
 
 function run(opts) {
-  const exporter = require("../lib/exporters/" + opts.exporter);
+  const importer = require("../lib/importers/" + opts.importer).importMerged;
   const formatters = opts.formats.map((name) => {
     const func = formatterFuncs[name];
     if (!func) {
@@ -20,9 +20,9 @@ function run(opts) {
     return [name, func];
   });
 
-  exporter().then((data) => {
+  importer().then((data) => {
     Object.keys(data).forEach((key) => {
-      const filenameTemplate = path.join(opts.dir, opts.exporter + "." + key);
+      const filenameTemplate = path.join(opts.dir, opts.importer + "." + key);
       formatters.forEach(([name, formatter]) => {
         formatter(filenameTemplate, data[key]).then(() => {
           console.log(filenameTemplate + ": Wrote " + name);
@@ -35,17 +35,17 @@ function run(opts) {
 function cmdline() {
   const argv = require('yargs')
     .alias('dir', 'd')
-    .alias('exporter', 'x')
+    .alias('importer', 'i')
     .alias('format', 'f')
     .array('format')
     .default('dir', 'out')
-    .demand(['exporter', 'format'])
+    .demand(['importer', 'format'])
     .describe('dir', 'where to export')
-    .describe('exporter', 'which exporter to use')
+    .describe('importer', 'which importer to use')
     .describe('format', 'which format(s) to export (json, toml)')
     .argv;
   run({
-    exporter: argv.exporter,
+    importer: argv.importer,
     dir: argv.dir,
     formats: argv.format,
   });
