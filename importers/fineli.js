@@ -12,17 +12,22 @@ function readFileToCsv(dir, key) {
 
 const mapNames = R.pipe(R.map(R.props(["FOODID", "FOODNAME"])), R.fromPairs);
 
-const mapComponents = R.pipe(
-  R.map((comp) => [comp.EUFDNAME, parseFloat(comp.BESTLOC.replace(",", "."))]),
+const mapNumberPair = (keyField, numField) => R.pipe(
+  R.map((datum) => [datum[keyField], parseFloat(datum[numField].replace(",", "."))]),
   R.fromPairs
 );
+
+const mapComponents = mapNumberPair("EUFDNAME", "BESTLOC");
+const mapFoodUnits = mapNumberPair("FOODUNIT", "MASS");
 
 function importFromDir(dir) {
   return util.importFilesFromDir(dir, [
     "component_value", "food", "foodaddunit",
     "foodname_EN", "foodname_SV", "foodname_TX",
   ], readFileToCsv).then((datas) => {
-    const foodComponents = R.groupBy(R.prop("FOODID"))(datas.component_value);
+    const groupByFoodId = R.groupBy(R.prop("FOODID"));
+    const foodComponents = groupByFoodId(datas.component_value);
+    const foodAddUnits = groupByFoodId(datas.foodaddunit);
     const namesEn = mapNames(datas.foodname_EN);
     const namesTx = mapNames(datas.foodname_TX);
     const namesSv = mapNames(datas.foodname_SV);
@@ -43,6 +48,7 @@ function importFromDir(dir) {
           "taxonomy": namesTx[datum.FOODID],
         }),
         "components": mapComponents(foodComponents[datum.FOODID] || []),
+        "units": mapFoodUnits(foodAddUnits[datum.FOODID] || []),
       };
     });
   });
