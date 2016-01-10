@@ -21,3 +21,12 @@
 
 * https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
 * Converted from XLSX with `ssconvert -S`
+
+# infoods
+
+* http://www.fao.org/infoods/infoods/standards-guidelines/food-component-identifiers-tagnames/en/
+* http://www.fao.org/fileadmin/templates/food_composition/documents/upload/PART{1,5}.TXT
+
+# eurofir
+
+* found by googling "eurofir_component_thesaurus"...

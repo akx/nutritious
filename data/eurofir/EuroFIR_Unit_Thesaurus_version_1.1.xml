@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+
+<EUROFIRSCHEME>
+<HEADER>
+<EXPORTDATE>2012-07-18</EXPORTDATE>
+<TITLE>EuroFIR Unit Thesaurus version 1.1</TITLE>
+<DEFINITION>EuroFIR Unit Thesaurus version 1.1 Thesaurus Export File</DEFINITION>
+<URI>http://www.eurofir.org/xml/scheme/EuroFIR_Unit_Thesaurus1.1.xml</URI>
+<NOTE>This is the official XML export file for EuroFIR Unit Thesaurus version 1.1</NOTE>
+</HEADER>
+<DESCRIPTORS>
+<DESCRIPTOR>
+<FTC>ATE</FTC>
+<TERM>alpha-tocopherol equivalent</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<AI>1 ATE = 1 mg RRR-alpha-tocopherol. &#60;br&#62;Sometimes quoted using the non-preferred name d-alpha-tocopherol&#60;br&#62;</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2009-06-09</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5222&#60;br&#62;Edited 2009-06-09 (descriptor &#38;quot;alpha-tcopherol equivalent&#38;quot; edited, synonym de&#38;shy;leted; IU)</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>BCE</FTC>
+<TERM>beta-carotene equivalent</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<AI>1 BCE = 1 ug all-trans beta-carotene&#60;br&#62;</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5221</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>BX</FTC>
+<TERM>degrees Brix</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<SN>Use only for the mass ratio of dissolved sucrose to water in a liquid expressed in degrees Brix (°Bx). When using this descriptor, the corresponding matrix unit is **.</SN>
+<AI>The °Bx unit is widely used in the fruit juice and nectar production.&#60;br&#62;&#60;DICTION&#62;Degrees Brix (°Bx) is measured with a saccharimeter that measures specific gravity of a liquid or more easily with a refractometer. A 25 °Bx solution is 25% (w/w), with 25 grams of sucrose sugar per 100 grams of liquid. Or, to put it another way, there are 25 grams of sucrose sugar and 75 grams of water in the 100 grams of solution [Wikipedia].&#60;br&#62;</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5293</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>g</FTC>
+<TERM>gram</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<AI>ISO 1000:1992</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5196</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>kcal</FTC>
+<TERM>kilocalorie</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5205</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>kg</FTC>
+<TERM>kilogram</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<AI>ISO 1000:1992</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5195</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>kJ</FTC>
+<TERM>kilojoule</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<AI>ISO 1000:1992</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5204</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>l</FTC>
+<TERM>litre</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<AI>Volume unit outside ISO 1000:1992, but recognized by CIPM as having to be retained because of its practical importance.&#60;br&#62;ISO prefixes (e.g. deci, centi, milli, micro, etc.) may be attached to the unit to form multiples.</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5200</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>ug</FTC>
+<TERM>microgram</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<AI>ISO 1000:1992&#60;br&#62;The descriptor code &#38;#39;ug&#38;#39; is used in preference to the use of a Greek character, µ, which requires an extended character set.</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2010-03-05</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5198&#60;br&#62;Edited 2010-03-05 (AI edited from preferrence; IU)</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>ul</FTC>
+<TERM>microlitre</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<AI>ISO 1000:1992&#60;br&#62;The descriptor code &#38;#39;ul&#38;#39; is used in preference to the use of a Greek character, µ, which requires an extended character set.&#60;br&#62;</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2010-03-05</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5202&#60;br&#62;Edited 2010-03-05 (AI corrected from &#38;#39;ug&#38;#39; and preferrence; IU)</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>mg</FTC>
+<TERM>milligram</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<AI>ISO 1000:1992</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5197</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>ml</FTC>
+<TERM>millilitre</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<AI>Multiple of volume unit, l (litre) outside ISO 1000:1992, but recognized by CIPM as having to be retained because of its practical importance.</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5201</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>mmol</FTC>
+<TERM>millimole</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<AI>ISO 1000:1992</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5203</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>MSE</FTC>
+<TERM>monosaccharide equivalent</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<AI>1 MSE = 1 g glucose</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5194</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>ng</FTC>
+<TERM>nanogram</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<AI>ISO 1000:1992</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5199</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>NE</FTC>
+<TERM>niacin equivalent</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5223</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>PCT</FTC>
+<TERM>per cent</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<SN>Never use for compositional values, which are always expressed as weight or volume unit per matrix unit, normally per 100g edible portion.&#60;br&#62;</SN>
+<AI>Although most dimensionless properties are by preference expressed as a proportion (unit = &#38;#39;R&#38;#39;), some may be more normally expressed as a percentage (%).</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5292</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>R</FTC>
+<TERM>ratio</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<SN>Used for properties expressed as a proportion.  Any value expressed as a ratio will have matrix unit &#38;#39;X&#38;#39;, &#38;#39;not applicable&#38;#39;.</SN>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5206</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+<DESCRIPTOR>
+<FTC>RE</FTC>
+<TERM>retinol equivalent</TERM>
+<BT>EuroFIR Unit Thesaurus [00000]</BT>
+<SN>Use for Retinol Activity Equivalent.&#60;br&#62;The factors used to convert beta-carotene equivalents to retinol equivalents are recorded through the Method Indicator.&#60;br&#62;</SN>
+<AI>1 RE = 1 ug all-trans retinol.</AI>
+<CLASSIFICATION>False</CLASSIFICATION>
+<ACTIVE>True</ACTIVE>
+<DATEUPDATED>2008-04-16</DATEUPDATED>
+<DATECREATED>2008-04-16</DATECREATED>
+<UPDATECOMMENT>Copied from termId 5220</UPDATECOMMENT>
+<SINGLE>1</SINGLE>
+</DESCRIPTOR>
+</DESCRIPTORS>
+</EUROFIRSCHEME>
